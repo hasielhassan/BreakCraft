@@ -1,0 +1,34 @@
+.ds-toolbar {
+  height: 48px;
+  background-color: var(--ds-bg-sidebar);
+  border-bottom: 1px solid var(--ds-border-color);
+  user-select: none;
+  padding-left: 24px !important;
+  padding-right: 16px;
+}
+
+.ds-button--active {
+  background-color: var(--ds-color-accent-alpha) !important;
+  border-color: var(--ds-border-focus) !important;
+  color: var(--ds-color-accent) !important;
+}
+
+.ds-toolbar .toolbar-mode-select {
+  margin-bottom: 0;
+  width: auto;
+}
+
+.ds-toolbar .toolbar-mode-select .ds-select-container {
+  max-width: none;
+}
+
+.ds-toolbar .toolbar-mode-select .ds-select {
+  height: 32px;
+  width: 150px;
+}
+
+@media (max-width: 900px) {
+  .ds-toolbar .ds-button__text {
+    display: none;
+  }
+}

@@ -1,0 +1,87 @@
+.tag-popover {
+  position: absolute;
+  z-index: 900;
+  width: 340px;
+  max-height: calc(100vh - 24px);
+  overflow-y: auto;
+  padding: var(--ds-spacing-3);
+  background-color: var(--ds-bg-sidebar);
+  border: 1px solid var(--ds-border-color);
+  border-radius: var(--ds-radius-lg);
+  box-shadow: var(--ds-shadow-lg);
+  animation: tagPopoverIn var(--ds-transition-fast);
+}
+
+@keyframes tagPopoverIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.tag-popover__quote {
+  font-size: var(--ds-font-size-sm);
+  color: var(--ds-text-primary);
+  margin-bottom: var(--ds-spacing-3);
+  padding: var(--ds-spacing-2);
+  background-color: var(--ds-bg-app);
+  border-radius: var(--ds-radius-sm);
+  max-height: 60px;
+  overflow: auto;
+  user-select: text;
+}
+
+.tag-popover__categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--ds-spacing-1);
+  margin-bottom: var(--ds-spacing-3);
+}
+
+.tag-popover__chip {
+  font-size: var(--ds-font-size-xs);
+  padding: 3px 7px;
+  border-radius: var(--ds-radius-round);
+  border: 1px solid var(--ds-border-color);
+  background-color: var(--ds-bg-card);
+  color: var(--ds-text-secondary);
+  transition: all var(--ds-transition-fast);
+}
+
+.tag-popover__chip:hover {
+  border-color: var(--chip-color);
+  color: var(--ds-text-primary);
+}
+
+.tag-popover__chip.is-active {
+  background-color: color-mix(in srgb, var(--chip-color) 22%, transparent);
+  border-color: var(--chip-color);
+  color: var(--ds-text-primary);
+  font-weight: 500;
+}
+
+.tag-popover__checkbox {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--ds-spacing-2);
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-text-secondary);
+  margin-bottom: var(--ds-spacing-3);
+  cursor: pointer;
+}
+
+.tag-popover__checkbox input {
+  margin-top: 2px;
+  accent-color: var(--ds-color-accent);
+  cursor: pointer;
+}
+
+.tag-popover__actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: var(--ds-spacing-2);
+}

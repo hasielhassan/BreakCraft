@@ -1,0 +1,1559 @@
+{
+  "version": "0.1.0",
+  "generator": "BreakCraft",
+  "saved": "2026-09-12T07:35:08.787Z",
+  "source": {
+    "fileName": "hare-and-tortoise.fountain",
+    "format": "fountain",
+    "importedAt": "2026-09-12T07:35:08.787Z"
+  },
+  "script": {
+    "id": "1525c619-e397-4201-a243-08a9df6b25f0",
+    "version": "1.0.0",
+    "generator": {
+      "name": "BreakCraft",
+      "version": "0.1.0"
+    },
+    "title": {
+      "en": "The Hare and the Tortoise"
+    },
+    "lang": "en",
+    "charset": "utf-8",
+    "dir": "ltr",
+    "authors": [
+      {
+        "id": "4c3206b3-ee44-467b-938e-2333de78e97a",
+        "given": "BreakCraft",
+        "family": "Samples"
+      }
+    ],
+    "characters": [
+      {
+        "id": "57469244-a575-4e0c-87cb-444385a91aa0",
+        "name": "HARE",
+        "aliases": [],
+        "traits": [],
+        "slug": "hare"
+      },
+      {
+        "id": "f08b3952-32a3-49b1-bf04-768c31be2516",
+        "name": "TORTOISE",
+        "aliases": [],
+        "traits": [],
+        "slug": "tortoise"
+      },
+      {
+        "id": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+        "name": "FOX",
+        "aliases": [],
+        "traits": [],
+        "slug": "fox"
+      },
+      {
+        "id": "7dde7b41-3d4a-4676-9fd9-676a5919f42e",
+        "name": "HEDGEHOG",
+        "aliases": [],
+        "traits": [],
+        "slug": "hedgehog"
+      },
+      {
+        "id": "6fc5b701-bf76-4d55-b31d-c53d02b31b1a",
+        "name": "OWL",
+        "aliases": [],
+        "traits": [],
+        "slug": "owl"
+      },
+      {
+        "id": "91251b1e-fd2c-431d-b203-aea5ed656aca",
+        "name": "RABBITS",
+        "aliases": [],
+        "traits": [],
+        "slug": "rabbits"
+      }
+    ],
+    "document": {
+      "cover": {
+        "title": {
+          "en": "The Hare and the Tortoise"
+        },
+        "authors": [
+          "4c3206b3-ee44-467b-938e-2333de78e97a"
+        ]
+      },
+      "scenes": [
+        {
+          "id": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+          "authors": [
+            "4c3206b3-ee44-467b-938e-2333de78e97a"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "MEADOW",
+            "time": "DAY"
+          },
+          "body": [
+            {
+              "id": "7c33e170-ab04-4315-934d-959dac55fe2b",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "transition",
+              "text": {
+                "en": "FADE IN:"
+              }
+            },
+            {
+              "id": "c36744f5-63e3-464c-a3b2-7e5bcbb827dd",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A wide meadow under a high sun. A HARE lounges in tall grass, watching a TORTOISE make slow, deliberate progress across the field. A FOX and a HEDGEHOG look on from a fallen log, and a small cluster of SPARROWS observes from a nearby branch, unbothered by any of it."
+              }
+            },
+            {
+              "id": "ed56d93d-a01a-42e0-a123-cc4c4e15f886",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "dc9eacc7-50f6-4518-8963-66cbb223ffce",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(laughing)"
+              }
+            },
+            {
+              "id": "eb061237-01c9-466f-94b9-4ae1080365ef",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "At that pace you'll arrive at next spring's flowers, not this one's."
+              }
+            },
+            {
+              "id": "2bb3f480-8e5d-4530-9af7-87d1d0696bb4",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "553ebf3f-1a10-48c1-8792-1448e9a6fb26",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(not stopping, not even glancing over)"
+              }
+            },
+            {
+              "id": "77a132ac-5658-4698-91d3-7613b483e987",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "I'll arrive, all the same. That's rather the whole point of walking."
+              }
+            },
+            {
+              "id": "8beddc71-365c-4fe7-a2f2-40f2af48edaf",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "b97127d7-5e13-46c4-a115-c36ff140143d",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "Arriving isn't much of an achievement if it takes a season to manage."
+              }
+            },
+            {
+              "id": "300aeef1-0f2c-4b1f-b111-7690dd09ceb5",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550"
+            },
+            {
+              "id": "353f4486-941d-41d3-88e4-cfb65a424fc3",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(from the log, amused)"
+              }
+            },
+            {
+              "id": "5d4c20fe-3f8a-4118-bd44-cf779b192df4",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+              "text": {
+                "en": "He has a point, Tortoise. You are remarkably unhurried, even for a tortoise."
+              }
+            },
+            {
+              "id": "f0f7d0bb-c5d4-4318-ba72-fa364b2f724a",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "da883ef5-3d3b-44c3-ab18-62003b104b85",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "Unhurried isn't the same as unable."
+              }
+            },
+            {
+              "id": "f94ce4e5-1f0f-45b6-8b04-b0793424b16b",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "e38fe3f3-f66e-420e-aa3d-2dacde16597e",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "Care to prove it, then? A race - that oak at the field's edge to the old fence post by the stream."
+              }
+            },
+            {
+              "id": "4c708fa4-9176-483c-95f0-8a8393dfd454",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "b4af931f-76c4-4b5e-a50b-80a6b612b200",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(finally stopping, considering him)"
+              }
+            },
+            {
+              "id": "9be174c0-fce5-4d86-ae15-8d4b69ca1b26",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "If you like."
+              }
+            },
+            {
+              "id": "ccdfbc79-0df6-45d5-8ad9-78edfe79e05d",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "7dde7b41-3d4a-4676-9fd9-676a5919f42e"
+            },
+            {
+              "id": "8732df67-b12c-4f19-b7df-650993c14d5e",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(sitting up, delighted)"
+              }
+            },
+            {
+              "id": "a3ea168a-0947-4c98-8e4c-8536c8c354ba",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "7dde7b41-3d4a-4676-9fd9-676a5919f42e",
+              "text": {
+                "en": "Oh, this I have to see."
+              }
+            },
+            {
+              "id": "f3b14108-24d9-45e8-8b4c-c64d222f9412",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Fox hops down from the log, tail flicking with anticipation."
+              }
+            },
+            {
+              "id": "689fb906-7f18-4ed6-8f30-2c548d07186a",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550"
+            },
+            {
+              "id": "5798dd9d-e612-439b-9913-331335d155c2",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+              "text": {
+                "en": "I'll call the start, if no one minds a fair fox for it. I've refereed worse arrangements."
+              }
+            },
+            {
+              "id": "bef6f362-8c9a-4bce-99e9-87778dd7ef85",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "7dde7b41-3d4a-4676-9fd9-676a5919f42e"
+            },
+            {
+              "id": "06d3e377-6911-48cd-93e6-256088cf2cfe",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "7dde7b41-3d4a-4676-9fd9-676a5919f42e",
+              "text": {
+                "en": "Someone ought to referee this one properly. He'll never let it go otherwise."
+              }
+            },
+            {
+              "id": "d0c76c2a-cdc1-43b1-943b-d12ff9c6f013",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "9339ce92-70c1-4bda-9a7c-730ca9a5e16b",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(stretching, entirely unbothered)"
+              }
+            },
+            {
+              "id": "a5b864d1-23b1-4e0f-8b50-799f50a79f99",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "There's nothing to let go of. I haven't lost a race since I learned to run."
+              }
+            },
+            {
+              "id": "04af16fe-f079-41cc-833f-5dd64798b9cf",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "c6cd4dee-617c-4dca-aee3-4951fced364f",
+              "scene": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "Then this will be a fine place to start keeping count."
+              }
+            }
+          ],
+          "cast": [
+            "57469244-a575-4e0c-87cb-444385a91aa0",
+            "f08b3952-32a3-49b1-bf04-768c31be2516",
+            "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+            "7dde7b41-3d4a-4676-9fd9-676a5919f42e"
+          ]
+        },
+        {
+          "id": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+          "authors": [
+            "4c3206b3-ee44-467b-938e-2333de78e97a"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "STARTING OAK",
+            "time": "DAY"
+          },
+          "body": [
+            {
+              "id": "920ff3d6-d9c7-4ceb-8974-b7153b7db360",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Word has travelled fast. A modest crowd of field creatures has gathered at the oak - the Sparrows overhead, a family of RABBITS peering from a hedge, an old OWL blinking sleepily from a low branch. Hare and Tortoise line up at the oak's roots. Fox raises a paw between them."
+              }
+            },
+            {
+              "id": "50683967-d19e-49e9-bb03-3462dabe5421",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550"
+            },
+            {
+              "id": "cf18749c-72bc-42e2-99dd-e80993ad1cb5",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+              "text": {
+                "en": "On my word, and not a heartbeat before. Ready -"
+              }
+            },
+            {
+              "id": "631ffceb-ad71-4780-ada5-1da76c41c86f",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "f613cc2a-4246-4ae7-8f98-a047f7590431",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(already bouncing on his heels)"
+              }
+            },
+            {
+              "id": "aa2a7bc8-7a3a-4927-96f5-7f93b9856018",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "Born ready. Practically finished, if we're honest."
+              }
+            },
+            {
+              "id": "a35e2bbc-2ebd-4faa-a5a1-b874bfab987e",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550"
+            },
+            {
+              "id": "cf9c3724-4dbf-48f3-b09a-79101671228a",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+              "text": {
+                "en": "- go!"
+              }
+            },
+            {
+              "id": "9d18a7d7-d547-4ab0-9fef-2d8f1846ab78",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Hare is gone in a blur of dust and flattened grass. The Tortoise sets off at exactly the pace he started at, neither faster nor slower for the crowd watching."
+              }
+            },
+            {
+              "id": "cbf7eb99-b8a2-4c77-ae66-b05e8ef3bd38",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "6fc5b701-bf76-4d55-b31d-c53d02b31b1a"
+            },
+            {
+              "id": "2731c4cc-4908-4f7f-99ec-31744dc20731",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(to no one in particular)"
+              }
+            },
+            {
+              "id": "39a9d36e-0f81-4a7c-a94c-8f40e8f682c4",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "6fc5b701-bf76-4d55-b31d-c53d02b31b1a",
+              "text": {
+                "en": "This won't take long to decide, one way or the other."
+              }
+            },
+            {
+              "id": "7a77478c-598d-4647-8d64-a131c7aecdf4",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "91251b1e-fd2c-431d-b203-aea5ed656aca"
+            },
+            {
+              "id": "1c6fc272-6b67-4266-91f6-0b1c8404010e",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(overlapping, unconvinced)"
+              }
+            },
+            {
+              "id": "034c0038-bf62-438b-ab9e-bf9b06dc15d4",
+              "scene": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "91251b1e-fd2c-431d-b203-aea5ed656aca",
+              "text": {
+                "en": "It never does. / Every single time."
+              }
+            }
+          ],
+          "cast": [
+            "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+            "57469244-a575-4e0c-87cb-444385a91aa0",
+            "6fc5b701-bf76-4d55-b31d-c53d02b31b1a",
+            "91251b1e-fd2c-431d-b203-aea5ed656aca"
+          ]
+        },
+        {
+          "id": "ccb116b4-1f96-43f8-8617-4c56fb426d54",
+          "authors": [
+            "4c3206b3-ee44-467b-938e-2333de78e97a"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FIELD - MIDPOINT",
+            "time": "DAY"
+          },
+          "body": [
+            {
+              "id": "c1331ed3-6722-40e7-b3e5-5ae75bcbaa54",
+              "scene": "ccb116b4-1f96-43f8-8617-4c56fb426d54",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Hare, now a considerable distance ahead, slows to a trot, then a walk, glancing back over one shoulder at the empty field behind him. No sign of the Tortoise at all."
+              }
+            },
+            {
+              "id": "d7ee3d01-ec39-4ce5-a533-b9f902e9cd5a",
+              "scene": "ccb116b4-1f96-43f8-8617-4c56fb426d54",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "4b496998-242a-4325-b124-ea18b3a97a81",
+              "scene": "ccb116b4-1f96-43f8-8617-4c56fb426d54",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(to himself, thoroughly pleased)"
+              }
+            },
+            {
+              "id": "298af413-3851-449c-9c57-dfefdb1fd775",
+              "scene": "ccb116b4-1f96-43f8-8617-4c56fb426d54",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "He hasn't even reached the stream yet, and here I am, halfway to finished and hardly out of breath."
+              }
+            },
+            {
+              "id": "4f505704-b552-4b78-b92c-e9990dae7d2b",
+              "scene": "ccb116b4-1f96-43f8-8617-4c56fb426d54",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "He spots a patch of clover, wanders over, and samples a mouthful without any particular urgency."
+              }
+            }
+          ],
+          "cast": [
+            "57469244-a575-4e0c-87cb-444385a91aa0"
+          ]
+        },
+        {
+          "id": "6382f77d-c030-47f2-9d35-07fd641e5c55",
+          "authors": [
+            "4c3206b3-ee44-467b-938e-2333de78e97a"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FOREST SHADE",
+            "time": "DAY"
+          },
+          "body": [
+            {
+              "id": "f3b20bf7-e6d4-4cb9-96d0-1cf9bff8d800",
+              "scene": "6382f77d-c030-47f2-9d35-07fd641e5c55",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A wide oak throws a deep, inviting shade a little off the race path. The Hare drops into the cool grass beneath it, more amused than tired, stretching out at full length."
+              }
+            },
+            {
+              "id": "1b4f7418-4bf7-45d0-9dc8-119ccf4913ca",
+              "scene": "6382f77d-c030-47f2-9d35-07fd641e5c55",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "f8e312f0-a0ff-45be-a75c-f763c9c63b9d",
+              "scene": "6382f77d-c030-47f2-9d35-07fd641e5c55",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(yawning)"
+              }
+            },
+            {
+              "id": "65e17331-44d0-4c1e-ad83-a8c1a8761482",
+              "scene": "6382f77d-c030-47f2-9d35-07fd641e5c55",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "A short rest changes nothing. I could sleep till supper and still cross that fence post walking."
+              }
+            },
+            {
+              "id": "55cfddd3-d05f-49ff-be03-35b74aed8942",
+              "scene": "6382f77d-c030-47f2-9d35-07fd641e5c55",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "He closes his eyes. Somewhere in the distance, unhurried and entirely unaware of being underestimated, small clawed feet continue their steady progress across the field."
+              }
+            }
+          ],
+          "cast": [
+            "57469244-a575-4e0c-87cb-444385a91aa0"
+          ]
+        },
+        {
+          "id": "37a9e832-3389-4944-a3dd-5be212d48ac6",
+          "authors": [
+            "4c3206b3-ee44-467b-938e-2333de78e97a"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FOREST SHADE",
+            "time": "LATER"
+          },
+          "body": [
+            {
+              "id": "f38a2283-a3ed-41cc-93d9-3e02dc372c0a",
+              "scene": "37a9e832-3389-4944-a3dd-5be212d48ac6",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The light has shifted, long shadows now stretching where there were none before. The Hare sleeps on, one ear twitching at some distant birdsong. In the middle distance, small and steady, the Tortoise passes beneath the very same oak without so much as a glance in his direction."
+              }
+            },
+            {
+              "id": "b63b5a81-97c7-4439-aae2-6142c3ba0ffe",
+              "scene": "37a9e832-3389-4944-a3dd-5be212d48ac6",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "11be6d73-0018-47d7-adda-6c7490544511",
+              "scene": "37a9e832-3389-4944-a3dd-5be212d48ac6",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(quietly, mostly to himself, not stopping)"
+              }
+            },
+            {
+              "id": "50bb6d0d-9271-4997-93d4-f33562dcc9ac",
+              "scene": "37a9e832-3389-4944-a3dd-5be212d48ac6",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "Sleep well."
+              }
+            },
+            {
+              "id": "4fc01b30-2880-4feb-8309-06f77d38ebd9",
+              "scene": "37a9e832-3389-4944-a3dd-5be212d48ac6",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "He continues on, unhurried, toward the fence post now visible at the field's far edge."
+              }
+            }
+          ],
+          "cast": [
+            "f08b3952-32a3-49b1-bf04-768c31be2516"
+          ]
+        },
+        {
+          "id": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+          "authors": [
+            "4c3206b3-ee44-467b-938e-2333de78e97a"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FIELD - NEAR THE FENCE",
+            "time": "LATER"
+          },
+          "body": [
+            {
+              "id": "d2c155f8-f54d-41e3-bb4d-15b62adc9760",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The crowd has drifted down the field to get a better view of the finish - Fox pacing, Hedgehog perched on a stone, the Rabbits whispering among themselves, the Owl now fully awake and visibly invested."
+              }
+            },
+            {
+              "id": "6bcb84cd-6ac5-478a-b579-83117df0ffb0",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "7dde7b41-3d4a-4676-9fd9-676a5919f42e"
+            },
+            {
+              "id": "a60ad06a-b2b5-48da-8a7d-3a221ae3f3b3",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(squinting)"
+              }
+            },
+            {
+              "id": "8bdf674d-fb6f-42d0-8907-046d5731518a",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "7dde7b41-3d4a-4676-9fd9-676a5919f42e",
+              "text": {
+                "en": "Is that - I think that's the Tortoise. Alone."
+              }
+            },
+            {
+              "id": "d2581ccd-3263-4e3f-a91e-e0a36b348a35",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550"
+            },
+            {
+              "id": "ca7ddd7c-1af5-4733-ad9f-06b28594a720",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(craning his neck)"
+              }
+            },
+            {
+              "id": "52922393-2c27-47d2-ad52-bb5d0dd00a3c",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+              "text": {
+                "en": "Where in the world is the Hare?"
+              }
+            },
+            {
+              "id": "5030305e-bb99-49ab-a1f9-5902507914ea",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "91251b1e-fd2c-431d-b203-aea5ed656aca"
+            },
+            {
+              "id": "16630bfd-6d89-4b17-a079-3eac32c4669a",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(overlapping again)"
+              }
+            },
+            {
+              "id": "2fa2f639-61db-402a-9e79-5159ad23b0c7",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "91251b1e-fd2c-431d-b203-aea5ed656aca",
+              "text": {
+                "en": "Maybe he's already finished. / He'd have said something, surely."
+              }
+            },
+            {
+              "id": "88e438fb-ab9f-45eb-95f1-3f83f3461057",
+              "scene": "7c0c25bf-1e38-4188-8c6c-522994efa3fb",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Tortoise plods steadily into view, entirely unhurried, exactly as he's looked the whole race."
+              }
+            }
+          ],
+          "cast": [
+            "7dde7b41-3d4a-4676-9fd9-676a5919f42e",
+            "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+            "91251b1e-fd2c-431d-b203-aea5ed656aca"
+          ]
+        },
+        {
+          "id": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+          "authors": [
+            "4c3206b3-ee44-467b-938e-2333de78e97a"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FENCE POST",
+            "time": "DAY"
+          },
+          "body": [
+            {
+              "id": "ef17f95e-4d5d-4dc4-a535-1c619a399b9a",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The fence post stands weathered and grey at the field's far edge. The Tortoise reaches it and, without any ceremony at all, touches it with one foot."
+              }
+            },
+            {
+              "id": "bd593bac-ec80-4de1-93d4-04383f9b0ceb",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "df799163-6b2e-4bb2-800b-ff8561278e79",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(quietly, to no one)"
+              }
+            },
+            {
+              "id": "c5c824e6-8ce2-409c-86ea-b931157cb30c",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "There, then."
+              }
+            },
+            {
+              "id": "e424f506-b460-4d18-9ede-17acf1069b7e",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The gathered crowd erupts - the Rabbits thumping their feet, the Sparrows scattering upward in a startled cloud, the Owl hooting once in what might be approval. Fox and Hedgehog arrive a moment later, both a little out of breath from hurrying down the field."
+              }
+            },
+            {
+              "id": "683d7d0f-b98e-4969-8b45-aa2b06c0147e",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550"
+            },
+            {
+              "id": "e822cc24-475e-44bf-8609-2d96b2c053d3",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+              "text": {
+                "en": "Where's the Hare?"
+              }
+            },
+            {
+              "id": "e7cc883e-bab6-4e19-8f65-1525b73f4028",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "7dde7b41-3d4a-4676-9fd9-676a5919f42e"
+            },
+            {
+              "id": "6d0ae934-d77c-4634-92e8-7368676b0448",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(pointing back the way they came)"
+              }
+            },
+            {
+              "id": "85a39154-a757-4f67-8e6e-0c75e9c67e93",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "7dde7b41-3d4a-4676-9fd9-676a5919f42e",
+              "text": {
+                "en": "Asleep under the big oak, unless I miss my guess entirely."
+              }
+            },
+            {
+              "id": "1907c83b-d6c7-4652-a09f-49827bce0d38",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Hare comes tearing across the field a moment later, ears flat with alarm, and skids to a stop at the sight of the Tortoise already resting comfortably against the post."
+              }
+            },
+            {
+              "id": "09193ca9-6b4b-4fa2-80ac-3de1d011b123",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "42b3efc8-2177-4bb0-b2e5-797c16ec567f",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "That's - how did you - I only closed my eyes for a moment!"
+              }
+            },
+            {
+              "id": "06116aa7-45c7-4213-b16d-e11d7d875657",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "5ac55391-7c7d-40c1-9f59-4b0984eb9644",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(settling in for a rest of his own, unbothered)"
+              }
+            },
+            {
+              "id": "60f2a465-4a00-410e-ab67-3a753baf2cdb",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "A moment was all it took, it seems."
+              }
+            },
+            {
+              "id": "5fa04df4-ab07-4924-85d5-bc045ed57273",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "a1576e2b-3080-4d4b-900e-aba78981f11a",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(deflated, sitting heavily in the grass)"
+              }
+            },
+            {
+              "id": "000a2f03-6c33-4e23-a14c-40a2c2abacab",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "I don't understand it. I'm faster in every single way that matters."
+              }
+            },
+            {
+              "id": "bddb394d-ae8c-48a4-bea6-0a7fad0c3107",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "6fc5b701-bf76-4d55-b31d-c53d02b31b1a"
+            },
+            {
+              "id": "44670245-6caa-4b7d-9f50-f9dad7591d29",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "6fc5b701-bf76-4d55-b31d-c53d02b31b1a",
+              "text": {
+                "en": "Every way but the one that decided the race."
+              }
+            },
+            {
+              "id": "965f080e-cc75-4c4e-bfcb-907a3331391f",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550"
+            },
+            {
+              "id": "73ec31eb-9af9-4b5b-823c-29695fd6d164",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(not unkindly)"
+              }
+            },
+            {
+              "id": "41ce5634-65bb-499a-9ce9-dff67783a11b",
+              "scene": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+              "text": {
+                "en": "Fast is a fine thing to be, Hare. But it isn't the same thing as finished."
+              }
+            }
+          ],
+          "cast": [
+            "f08b3952-32a3-49b1-bf04-768c31be2516",
+            "9e8382b5-d8c1-49d4-9e81-cab6dbf80550",
+            "7dde7b41-3d4a-4676-9fd9-676a5919f42e",
+            "57469244-a575-4e0c-87cb-444385a91aa0",
+            "6fc5b701-bf76-4d55-b31d-c53d02b31b1a"
+          ]
+        },
+        {
+          "id": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+          "authors": [
+            "4c3206b3-ee44-467b-938e-2333de78e97a"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FENCE POST",
+            "time": "LATER"
+          },
+          "body": [
+            {
+              "id": "c11685e8-b5ae-498d-9213-9c91cbe82f12",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The crowd has mostly wandered off, the excitement settling into ordinary afternoon again. The Hare sits beside the Tortoise now, chastened, watching the sun sink toward the tree line."
+              }
+            },
+            {
+              "id": "df8ccf96-d57f-486b-845e-1ba0f77607a7",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "3a32267e-fc20-4f5d-a3a7-f6eeb5933133",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "Same race, next spring? I'd like the chance to do it properly this time."
+              }
+            },
+            {
+              "id": "7f41cddc-6986-4af3-a86a-16d95c769ddc",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "05650961-5b5a-4f2d-a984-f65ef67b479a",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "(a small, patient smile)"
+              }
+            },
+            {
+              "id": "6e5897d0-b1a2-48f6-b224-717d3c3cff3d",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "Anytime you like. I'll be walking the same pace either way."
+              }
+            },
+            {
+              "id": "ed0009aa-160c-4eb4-8660-61da1795438d",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0"
+            },
+            {
+              "id": "f7e22437-24b8-41ab-b7e0-1326a606d831",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "57469244-a575-4e0c-87cb-444385a91aa0",
+              "text": {
+                "en": "Slow and steady. It adds up, doesn't it."
+              }
+            },
+            {
+              "id": "de8273d5-4ee4-43e3-86b1-fd7472ca3ec5",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "character",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516"
+            },
+            {
+              "id": "4154cbce-51f6-4b73-b196-58d03e1a0576",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "dialogue",
+              "character": "f08b3952-32a3-49b1-bf04-768c31be2516",
+              "text": {
+                "en": "It generally does, in the end."
+              }
+            },
+            {
+              "id": "e9b47ecb-2fbb-4d0d-9db8-4c060861b3fe",
+              "scene": "5de17729-8c00-400a-b7a3-90a5358c9c65",
+              "authors": [
+                "4c3206b3-ee44-467b-938e-2333de78e97a"
+              ],
+              "type": "transition",
+              "text": {
+                "en": "FADE OUT."
+              }
+            }
+          ],
+          "cast": [
+            "57469244-a575-4e0c-87cb-444385a91aa0",
+            "f08b3952-32a3-49b1-bf04-768c31be2516"
+          ]
+        }
+      ]
+    }
+  },
+  "breakdown": {
+    "version": "0.1.0",
+    "id": "cf68346f-a13e-45ac-bb9c-1c7f8901eb7c",
+    "scriptId": "1525c619-e397-4201-a243-08a9df6b25f0",
+    "created": "2026-09-12T07:35:08.774Z",
+    "updated": "2026-09-12T07:35:08.787Z",
+    "tags": [
+      {
+        "id": "0100f194-ead2-405a-842e-808b15d09cea",
+        "category": "location",
+        "key": "fence-post",
+        "label": "Fence Post",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Locations",
+        "notes": "",
+        "instances": [
+          {
+            "id": "82a0a253-206e-4223-b654-e62021b7c119",
+            "sceneId": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+            "elementId": "e38fe3f3-f66e-420e-aa3d-2dacde16597e",
+            "start": 73,
+            "end": 83,
+            "text": "fence post",
+            "source": "user",
+            "sceneKey": "a1a8a506",
+            "elementKey": "3d38dd64"
+          },
+          {
+            "id": "d7400a1c-4ad6-4647-a919-f29f39eb2b1d",
+            "sceneId": "6382f77d-c030-47f2-9d35-07fd641e5c55",
+            "elementId": "65e17331-44d0-4c1e-ad83-a8c1a8761482",
+            "start": 77,
+            "end": 87,
+            "text": "fence post",
+            "source": "user",
+            "sceneKey": "94984e73",
+            "elementKey": "3d38dd64"
+          },
+          {
+            "id": "1f7524fc-74a9-4bf4-93b9-175458337459",
+            "sceneId": "37a9e832-3389-4944-a3dd-5be212d48ac6",
+            "elementId": "4fc01b30-2880-4feb-8309-06f77d38ebd9",
+            "start": 39,
+            "end": 49,
+            "text": "fence post",
+            "source": "user",
+            "sceneKey": "53091a8b",
+            "elementKey": "3d38dd64"
+          },
+          {
+            "id": "b59d14ca-4d83-4cfe-8114-97493cbaca72",
+            "sceneId": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+            "elementId": "ef17f95e-4d5d-4dc4-a535-1c619a399b9a",
+            "start": 4,
+            "end": 14,
+            "text": "fence post",
+            "source": "user",
+            "sceneKey": "015a252e",
+            "elementKey": "3d38dd64"
+          }
+        ]
+      },
+      {
+        "id": "ff790c77-5975-4bf2-9f67-83a0e2de1757",
+        "category": "location",
+        "key": "oak",
+        "label": "The Oak",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Locations",
+        "notes": "",
+        "instances": [
+          {
+            "id": "94c84eba-4588-4674-9291-cf682711dab1",
+            "sceneId": "c1ff0dad-7ac4-412c-892e-0f3b2554b04a",
+            "elementId": "e38fe3f3-f66e-420e-aa3d-2dacde16597e",
+            "start": 38,
+            "end": 41,
+            "text": "oak",
+            "source": "user",
+            "sceneKey": "a1a8a506",
+            "elementKey": "a84bce72"
+          },
+          {
+            "id": "bf64e498-b286-45ff-b5c3-091dca926ee3",
+            "sceneId": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+            "elementId": "920ff3d6-d9c7-4ceb-8974-b7153b7db360",
+            "start": 79,
+            "end": 82,
+            "text": "oak",
+            "source": "user",
+            "sceneKey": "4e0eff0e",
+            "elementKey": "a84bce72"
+          },
+          {
+            "id": "6f15d0ed-5c51-4ca1-b33e-798d72bbc39d",
+            "sceneId": "984e58d1-7e71-4f39-ac05-c585fecc1d42",
+            "elementId": "920ff3d6-d9c7-4ceb-8974-b7153b7db360",
+            "start": 231,
+            "end": 234,
+            "text": "oak",
+            "source": "user",
+            "sceneKey": "4e0eff0e",
+            "elementKey": "a84bce72"
+          },
+          {
+            "id": "2a1d689f-2d8e-420d-95cd-54b551c11047",
+            "sceneId": "6382f77d-c030-47f2-9d35-07fd641e5c55",
+            "elementId": "f3b20bf7-e6d4-4cb9-96d0-1cf9bff8d800",
+            "start": 7,
+            "end": 10,
+            "text": "oak",
+            "source": "user",
+            "sceneKey": "94984e73",
+            "elementKey": "a84bce72"
+          },
+          {
+            "id": "6b7e83a6-106b-427a-9b35-382e14771dcd",
+            "sceneId": "37a9e832-3389-4944-a3dd-5be212d48ac6",
+            "elementId": "f38a2283-a3ed-41cc-93d9-3e02dc372c0a",
+            "start": 229,
+            "end": 232,
+            "text": "oak",
+            "source": "user",
+            "sceneKey": "53091a8b",
+            "elementKey": "a84bce72"
+          },
+          {
+            "id": "942bf062-eeed-437e-90db-ce7537b96801",
+            "sceneId": "531f12d8-810f-443f-8e1f-cfdc3aebb6a0",
+            "elementId": "85a39154-a757-4f67-8e6e-0c75e9c67e93",
+            "start": 21,
+            "end": 24,
+            "text": "oak",
+            "source": "user",
+            "sceneKey": "015a252e",
+            "elementKey": "a84bce72"
+          }
+        ]
+      },
+      {
+        "id": "116f5b7e-087a-4a80-82d8-4321d53a27ec",
+        "category": "setdressing",
+        "key": "clover",
+        "label": "Clover",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "6cde7135-aba3-45ef-961d-7946bbd3b956",
+            "sceneId": "ccb116b4-1f96-43f8-8617-4c56fb426d54",
+            "elementId": "4f505704-b552-4b78-b92c-e9990dae7d2b",
+            "start": 20,
+            "end": 26,
+            "text": "clover",
+            "source": "user",
+            "sceneKey": "e18b7b2e",
+            "elementKey": "be85c278"
+          }
+        ]
+      }
+    ],
+    "scenes": {}
+  }
+}

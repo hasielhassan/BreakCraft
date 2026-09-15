@@ -1,0 +1,46 @@
+.reports-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 0;
+}
+
+.reports-view__tabs {
+  display: flex;
+  align-items: center;
+  gap: var(--ds-spacing-1);
+  flex-wrap: wrap;
+}
+
+.reports-view .ds-button--active {
+  background-color: var(--ds-color-accent-alpha);
+  border-color: var(--ds-border-focus);
+  color: var(--ds-color-accent);
+}
+
+.reports-view__minutes-per-page {
+  display: flex;
+  align-items: center;
+  gap: var(--ds-spacing-2);
+  flex-shrink: 0;
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-text-secondary);
+  white-space: nowrap;
+}
+
+.reports-view__minutes-per-page input {
+  width: 56px;
+  height: 28px;
+  background-color: var(--ds-bg-app);
+  border: 1px solid var(--ds-border-color);
+  border-radius: var(--ds-radius-md);
+  padding: 0 var(--ds-spacing-2);
+  font-size: var(--ds-font-size-sm);
+  color: var(--ds-text-primary);
+  outline: none;
+}
+
+.reports-view__minutes-per-page input:focus {
+  border-color: var(--ds-border-focus);
+  box-shadow: 0 0 0 2px var(--ds-color-accent-alpha);
+}

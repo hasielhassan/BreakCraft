@@ -1,0 +1,154 @@
+.script-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 0;
+  position: relative;
+}
+
+.script-view__hint {
+  padding: var(--ds-spacing-2) var(--ds-spacing-4);
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-text-muted);
+  border-bottom: 1px solid var(--ds-border-color);
+  background-color: var(--ds-bg-sidebar);
+  flex-shrink: 0;
+}
+
+.script-view__scroll {
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+  padding: var(--ds-spacing-6) var(--ds-spacing-4);
+}
+
+.script-view__pages {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--ds-spacing-6);
+}
+
+/*
+ * The page is sized in inches and the text in `ch` units of a monospace face,
+ * which is what makes the rendered line breaks match the paginator's computed
+ * ones. Changing the font family here without changing
+ * core/paginate/constants.js will make the two disagree.
+ */
+.script-page {
+  position: relative;
+  width: 8.5in;
+  min-height: 11in;
+  padding: 1in 1in 1in 1.5in;
+  background-color: #f4f1ea;
+  color: #16181c;
+  box-shadow: var(--ds-shadow-md);
+  border-radius: 2px;
+  font-family: 'Courier Prime', 'Courier New', Courier, monospace;
+  font-size: 12pt;
+  line-height: 1;
+  user-select: text;
+}
+
+.script-page__number {
+  position: absolute;
+  top: 0.5in;
+  right: 1in;
+  font-size: 12pt;
+  color: #55585e;
+}
+
+.script-page__body {
+  display: flex;
+  flex-direction: column;
+}
+
+.script-block {
+  white-space: pre-wrap;
+  margin: 0;
+  padding: 0;
+}
+
+/* One blank line before most elements; dialogue follows its cue directly. */
+.script-block--action,
+.script-block--general,
+.script-block--shot,
+.script-block--transition,
+.script-block--character {
+  margin-top: 1em;
+}
+
+.script-block--heading {
+  margin-top: 2em;
+  font-weight: 700;
+  cursor: pointer;
+  position: relative;
+}
+
+.script-block--heading:first-child {
+  margin-top: 0;
+}
+
+.script-block__scene-no {
+  position: absolute;
+  left: -0.75in;
+  color: #7a7d84;
+  font-weight: 400;
+}
+
+.script-block--action,
+.script-block--general,
+.script-block--shot,
+.script-block--heading {
+  width: 61ch;
+}
+
+.script-block--character {
+  margin-left: 22ch;
+  width: 38ch;
+}
+
+.script-block--dialogue {
+  margin-left: 10ch;
+  width: 35ch;
+}
+
+.script-block--parenthetical {
+  margin-left: 13ch;
+  width: 25ch;
+}
+
+.script-block--transition {
+  margin-left: 45ch;
+  width: 20ch;
+}
+
+.script-mark {
+  background-color: color-mix(in srgb, var(--mark-color) 34%, transparent);
+  border-bottom: 2px solid var(--mark-color);
+  color: inherit;
+  padding: 0;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.script-mark--multi {
+  border-bottom-style: double;
+  border-bottom-width: 3px;
+}
+
+.script-mark--selected {
+  background-color: color-mix(in srgb, var(--mark-color) 62%, transparent);
+  outline: 1px solid var(--mark-color);
+}
+
+@media (max-width: 1000px) {
+  .script-page {
+    width: 100%;
+    padding: 0.5in;
+    font-size: 10pt;
+  }
+  .script-block__scene-no {
+    left: -0.4in;
+  }
+}

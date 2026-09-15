@@ -1,0 +1,312 @@
+.app-shell {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}
+
+.ds-menu-bar {
+  height: 40px;
+  background-color: var(--ds-bg-sidebar);
+  border-bottom: 1px solid var(--ds-border-color);
+  padding: 0 var(--ds-spacing-4);
+  font-size: var(--ds-font-size-sm);
+  z-index: 100;
+  overflow: visible;
+}
+
+.ds-app-logo {
+  user-select: none;
+}
+
+.ds-logo-icon {
+  font-size: var(--ds-font-size-lg);
+}
+
+.ds-logo-text {
+  font-size: var(--ds-font-size-sm);
+  color: var(--ds-text-primary);
+}
+
+.ds-menu-bar-right {
+  max-width: 280px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.ds-menu-container {
+  position: relative;
+  display: inline-block;
+}
+
+.ds-menu-trigger {
+  padding: 0 var(--ds-spacing-3);
+  height: 28px;
+  margin: 0 var(--ds-spacing-1);
+  border-radius: var(--ds-radius-sm);
+  display: inline-flex;
+  align-items: center;
+  color: var(--ds-text-secondary);
+  font-weight: 500;
+  font-size: 13px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: background-color var(--ds-transition-fast), color var(--ds-transition-fast);
+}
+
+.ds-menu-trigger:hover,
+.ds-menu-trigger--active {
+  background-color: var(--ds-bg-hover);
+  color: var(--ds-text-primary);
+}
+
+.ds-menu-trigger:disabled {
+  color: var(--ds-text-muted);
+  cursor: default;
+  opacity: 0.5;
+}
+
+.ds-menu-trigger:disabled:hover {
+  background-color: transparent;
+}
+
+.ds-menu-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 4px;
+  background-color: var(--ds-bg-sidebar);
+  border: 1px solid var(--ds-border-color);
+  border-radius: var(--ds-radius-md);
+  padding: var(--ds-spacing-1) 0;
+  z-index: 1000;
+  box-shadow: var(--ds-shadow-lg);
+  display: flex;
+  flex-direction: column;
+  min-width: 190px;
+}
+
+.ds-menu-dropdown-item {
+  padding: var(--ds-spacing-2) var(--ds-spacing-3);
+  font-size: 13px;
+  color: var(--ds-text-secondary);
+  text-align: left;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--ds-spacing-2);
+  width: 100%;
+  white-space: nowrap;
+  transition: background-color var(--ds-transition-fast), color var(--ds-transition-fast);
+}
+
+.ds-menu-dropdown-item:hover,
+.ds-menu-dropdown-item--active {
+  background-color: var(--ds-bg-hover);
+  color: var(--ds-text-primary);
+}
+
+.ds-menu-dropdown-divider {
+  height: 1px;
+  background-color: var(--ds-border-color);
+  margin: var(--ds-spacing-1) 0;
+}
+
+.ds-submenu-container {
+  position: relative;
+  width: 100%;
+}
+
+.ds-submenu-dropdown {
+  position: absolute;
+  top: -4px;
+  left: 100%;
+  margin-left: 2px;
+  background-color: var(--ds-bg-sidebar);
+  border: 1px solid var(--ds-border-color);
+  border-radius: var(--ds-radius-md);
+  padding: var(--ds-spacing-1) 0;
+  z-index: 1001;
+  box-shadow: var(--ds-shadow-lg);
+  display: flex;
+  flex-direction: column;
+  min-width: 210px;
+}
+
+.ds-status-bar {
+  height: 24px;
+  background-color: var(--ds-bg-sidebar);
+  border-top: 1px solid var(--ds-border-color);
+  padding: 0 var(--ds-spacing-4);
+  z-index: 100;
+}
+
+.ds-sidebar-collapse-btn {
+  background: transparent;
+  border: none;
+  color: var(--ds-text-secondary);
+  font-size: var(--ds-font-size-md);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  border-radius: var(--ds-radius-sm);
+  transition: background-color var(--ds-transition-fast), color var(--ds-transition-fast);
+}
+
+.ds-sidebar-collapse-btn:hover {
+  background-color: var(--ds-bg-hover);
+  color: var(--ds-text-primary);
+}
+
+.ds-sidebar-expand-btn {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background-color: var(--ds-bg-sidebar);
+  border: 1px solid var(--ds-border-color);
+  border-right: none;
+  border-top-left-radius: var(--ds-radius-md);
+  border-bottom-left-radius: var(--ds-radius-md);
+  padding: var(--ds-spacing-3) var(--ds-spacing-1);
+  color: var(--ds-text-secondary);
+  cursor: pointer;
+  z-index: 100;
+  font-size: var(--ds-font-size-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--ds-shadow-sm);
+  transition: background-color var(--ds-transition-fast), color var(--ds-transition-fast);
+}
+
+.ds-sidebar-expand-btn:hover {
+  background-color: var(--ds-bg-hover);
+  color: var(--ds-text-primary);
+}
+
+.app-shell__body {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+  position: relative;
+}
+
+.app-shell__main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background-color: var(--ds-bg-app);
+}
+
+.app-shell__resizer {
+  width: 4px;
+  cursor: col-resize;
+  background-color: var(--ds-border-color);
+  flex-shrink: 0;
+  transition: background-color var(--ds-transition-fast);
+}
+
+.app-shell__resizer:hover,
+.app-shell__resizer--active {
+  background-color: var(--ds-color-accent);
+}
+
+.app-shell__panel {
+  flex-shrink: 0;
+  background-color: var(--ds-bg-sidebar);
+  border-left: 1px solid var(--ds-border-color);
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
+}
+
+/* Shared table styling used by the breakdown, element and report views. */
+.bc-table-wrap {
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+}
+
+.bc-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: var(--ds-font-size-xs);
+}
+
+.bc-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: var(--ds-bg-sidebar);
+  border-bottom: 1px solid var(--ds-border-color);
+  padding: var(--ds-spacing-2) var(--ds-spacing-3);
+  text-align: left;
+  font-weight: 600;
+  font-size: var(--ds-font-size-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ds-text-secondary);
+  white-space: nowrap;
+}
+
+.bc-table tbody td {
+  padding: var(--ds-spacing-2) var(--ds-spacing-3);
+  border-bottom: 1px solid var(--ds-border-color);
+  color: var(--ds-text-secondary);
+  vertical-align: top;
+}
+
+.bc-table tbody tr:hover td {
+  background-color: var(--ds-bg-hover);
+}
+
+.bc-table tbody tr.is-selected td {
+  background-color: var(--ds-color-accent-alpha);
+  color: var(--ds-text-primary);
+}
+
+.bc-table .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.bc-table .strong {
+  color: var(--ds-text-primary);
+  font-weight: 500;
+}
+
+.bc-view-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--ds-spacing-3);
+  padding: var(--ds-spacing-3) var(--ds-spacing-4);
+  border-bottom: 1px solid var(--ds-border-color);
+  flex-shrink: 0;
+}
+
+.bc-view-header h2 {
+  font-size: var(--ds-font-size-md);
+}
+
+.bc-empty {
+  padding: var(--ds-spacing-8);
+  text-align: center;
+  color: var(--ds-text-muted);
+  font-size: var(--ds-font-size-sm);
+}

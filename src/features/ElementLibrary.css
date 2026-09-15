@@ -1,0 +1,163 @@
+.element-library {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 0;
+}
+
+.element-library__search {
+  width: 100%;
+  max-width: 320px;
+  height: 32px;
+  background-color: var(--ds-bg-app);
+  border: 1px solid var(--ds-border-color);
+  border-radius: var(--ds-radius-md);
+  padding: 0 var(--ds-spacing-3);
+  font-size: var(--ds-font-size-sm);
+  color: var(--ds-text-primary);
+  outline: none;
+}
+
+.element-library__search:focus {
+  border-color: var(--ds-border-focus);
+  box-shadow: 0 0 0 2px var(--ds-color-accent-alpha);
+}
+
+.element-library__merge-bar {
+  display: flex;
+  align-items: center;
+  gap: var(--ds-spacing-3);
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-color-accent);
+  background-color: var(--ds-color-accent-alpha);
+  border: 1px solid var(--ds-border-focus);
+  border-radius: var(--ds-radius-md);
+  padding: var(--ds-spacing-1) var(--ds-spacing-3);
+}
+
+.element-library__merge-confirm {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--ds-spacing-3);
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-text-primary);
+  background-color: var(--ds-bg-card);
+  border: 1px solid var(--ds-color-accent);
+  border-radius: var(--ds-radius-md);
+  padding: var(--ds-spacing-2) var(--ds-spacing-3);
+  margin: 0 var(--ds-spacing-4);
+}
+
+.element-library__merge-confirm-actions {
+  display: flex;
+  gap: var(--ds-spacing-2);
+  flex-shrink: 0;
+}
+
+.element-library__scroll {
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+  padding: var(--ds-spacing-4);
+}
+
+/* While a merge source is picked, every other row in that same table reads as
+   a valid drop target on hover — the source's own row gets a persistent
+   highlight instead so it's never ambiguous what's being merged. Scoped to
+   the table (not the whole view) since Cast, Sets and each tagged category
+   are separate merge pools — merging a character can't target a prop. */
+.element-library .bc-table.is-merging tbody tr:not(.is-merge-source):hover td {
+  background-color: var(--ds-color-accent-alpha);
+  outline: 1px dashed var(--ds-color-accent);
+  outline-offset: -1px;
+}
+
+.element-library .bc-table.is-merging tbody tr.is-merge-source td {
+  background-color: var(--ds-bg-active);
+  font-style: italic;
+}
+
+.element-library__auto-badge {
+  margin-left: var(--ds-spacing-2);
+}
+
+.element-library__aliases {
+  display: block;
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-text-muted);
+  font-weight: 400;
+}
+
+.element-library__group {
+  margin-bottom: var(--ds-spacing-6);
+}
+
+.element-library__group h3 {
+  display: flex;
+  align-items: center;
+  gap: var(--ds-spacing-2);
+  font-size: var(--ds-font-size-sm);
+  padding-left: var(--ds-spacing-3);
+  border-left: 3px solid var(--ds-border-color);
+  margin-bottom: var(--ds-spacing-2);
+}
+
+.element-library__count {
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-text-on-accent);
+  background-color: var(--ds-color-accent);
+  border-radius: var(--ds-radius-round);
+  padding: 0 6px;
+  font-weight: 600;
+}
+
+.element-library__dept {
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-text-muted);
+  font-weight: 400;
+  margin-left: auto;
+}
+
+.element-library tbody tr {
+  cursor: pointer;
+}
+
+.element-library__scene-link {
+  display: inline-block;
+  margin: 0 3px 3px 0;
+  padding: 1px 6px;
+  border-radius: var(--ds-radius-sm);
+  background-color: var(--ds-bg-card);
+  border: 1px solid var(--ds-border-color);
+  font-size: 0.7rem;
+  color: var(--ds-text-secondary);
+  font-variant-numeric: tabular-nums;
+}
+
+.element-library__scene-link:hover {
+  border-color: var(--ds-color-accent);
+  color: var(--ds-color-accent);
+}
+
+.element-library__actions-col {
+  width: 84px;
+  white-space: nowrap;
+}
+
+/* Every table in this view (auto-derived Cast/Sets, and one per tagged
+   category) is a separate <table> with its own content, so left to auto
+   layout each one computes its own column widths independently and nothing
+   lines up between sections. Fixed layout + a shared colgroup scheme keeps
+   the primary/numeric/actions columns the same width everywhere. */
+.element-library .bc-table {
+  table-layout: fixed;
+}
+
+.element-library__col-primary {
+  width: 26%;
+}
+
+.element-library__col-num {
+  width: 80px;
+}

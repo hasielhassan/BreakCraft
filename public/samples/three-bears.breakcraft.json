@@ -1,0 +1,1484 @@
+{
+  "version": "0.1.0",
+  "generator": "BreakCraft",
+  "saved": "2026-09-12T07:35:08.765Z",
+  "source": {
+    "fileName": "three-bears.fdx",
+    "format": "fdx",
+    "importedAt": "2026-09-12T07:35:08.765Z"
+  },
+  "script": {
+    "id": "06355deb-c273-42c4-8b6d-d7f1e85aad96",
+    "version": "1.0.0",
+    "generator": {
+      "name": "BreakCraft",
+      "version": "0.1.0"
+    },
+    "title": {
+      "en": "THE STORY OF THE THREE BEARS"
+    },
+    "lang": "en",
+    "charset": "utf-8",
+    "dir": "ltr",
+    "authors": [
+      {
+        "id": "9c700c6e-ca24-4f9f-b07b-d5acf861c762",
+        "given": "Unknown",
+        "family": "Author"
+      }
+    ],
+    "characters": [
+      {
+        "id": "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+        "name": "PAPA BEAR",
+        "aliases": [],
+        "traits": [],
+        "slug": "papa-bear"
+      },
+      {
+        "id": "6d49a234-0825-4159-922d-23c5707ba6b4",
+        "name": "MAMA BEAR",
+        "aliases": [],
+        "traits": [],
+        "slug": "mama-bear"
+      },
+      {
+        "id": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+        "name": "BABY BEAR",
+        "aliases": [],
+        "traits": [],
+        "slug": "baby-bear"
+      },
+      {
+        "id": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+        "name": "GOLDILOCKS",
+        "aliases": [],
+        "traits": [],
+        "slug": "goldilocks"
+      }
+    ],
+    "document": {
+      "cover": {
+        "title": {
+          "en": "THE STORY OF THE THREE BEARS"
+        },
+        "authors": [
+          "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+        ],
+        "extra": {
+          "en": "THE STORY OF THE THREE BEARS\nA BreakCraft sample adaptation\nPublic domain folk tale, freely retold"
+        }
+      },
+      "scenes": [
+        {
+          "id": "dd2055cf-6cb3-49d3-a2f3-7ea716062e97",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FOREST COTTAGE",
+            "time": "MORNING",
+            "no": 1
+          },
+          "body": [
+            {
+              "id": "7ed765b4-a4a4-4527-a6f2-9c6422404db9",
+              "scene": "dd2055cf-6cb3-49d3-a2f3-7ea716062e97",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A tidy stone cottage sits deep in the woods, smoke curling from its chimney into the cool morning air. A well-worn path leads up to a round front door, painted a cheerful green."
+              }
+            }
+          ],
+          "cast": []
+        },
+        {
+          "id": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "BEARS' COTTAGE - KITCHEN",
+            "time": "CONTINUOUS",
+            "no": 2
+          },
+          "body": [
+            {
+              "id": "1110eaa3-5d87-4105-902a-5ec862391c9a",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Three bowls of PORRIDGE steam on the table: one large, one middling, one small. PAPA BEAR, MAMA BEAR and BABY BEAR gather round, spoons ready, napkins already tucked in."
+              }
+            },
+            {
+              "id": "e7f57c71-b01b-4a8d-9f5d-149999caba06",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2"
+            },
+            {
+              "id": "9169a5e2-516b-481d-940c-defcdb0ab485",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+              "text": {
+                "en": "Too hot to sit still for. Every morning the same trouble."
+              }
+            },
+            {
+              "id": "b1effdbc-fed7-4ea7-b5b3-17ff9ae0ee99",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4"
+            },
+            {
+              "id": "42484554-52f5-4139-b2df-fb209fbf0645",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4",
+              "text": {
+                "en": "A walk while it cools, then, same as every morning. It's hardly a hardship."
+              }
+            },
+            {
+              "id": "cfa57134-daf5-452f-b832-777ff64ff543",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+            },
+            {
+              "id": "65c42adb-4933-4ff2-8cd4-635079c494cc",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "already at the door"
+              }
+            },
+            {
+              "id": "976207ac-2d89-4bdc-806f-075c420bba98",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+              "text": {
+                "en": "Last one to the stream carries the honey jar all the way back!"
+              }
+            },
+            {
+              "id": "b285f9cf-593f-4686-960f-c3bdaad5e773",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2"
+            },
+            {
+              "id": "69a58e12-ba9e-4e36-8784-423f9cc7a503",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+              "text": {
+                "en": "That was my honey jar last time, and the time before that."
+              }
+            },
+            {
+              "id": "7ab8a694-98ff-4c21-b813-ef8237076455",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4"
+            },
+            {
+              "id": "30c215a3-ad9f-4e50-9477-b54677a839da",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "already following Baby Bear out"
+              }
+            },
+            {
+              "id": "b4b6480d-2548-4a40-9455-83c0ce9cb95b",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4",
+              "text": {
+                "en": "Then perhaps walk a little faster this morning, dear."
+              }
+            },
+            {
+              "id": "39ae8654-03b5-4043-adbf-f8146522136c",
+              "scene": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The door swings shut behind them, their voices fading down the forest path. The porridge sits, cooling, in the quiet."
+              }
+            }
+          ],
+          "cast": [
+            "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+            "6d49a234-0825-4159-922d-23c5707ba6b4",
+            "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+          ]
+        },
+        {
+          "id": "d5e92fa2-e3be-4726-89f5-47e36a5cbdba",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FOREST PATH",
+            "time": "CONTINUOUS",
+            "no": 3
+          },
+          "body": [
+            {
+              "id": "5a224e40-80cc-4266-ab89-89b3eb9cf4ef",
+              "scene": "d5e92fa2-e3be-4726-89f5-47e36a5cbdba",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Some distance off, a girl with tangled GOLD HAIR wanders the same stretch of forest, humming to herself, clearly enjoying being lost rather more than she's worried about it. This is GOLDILOCKS, small, curious, and entirely unbothered by whose woods these are."
+              }
+            },
+            {
+              "id": "97ef4f7a-0b81-4bd9-8e85-3eba49aad486",
+              "scene": "d5e92fa2-e3be-4726-89f5-47e36a5cbdba",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "She spots the cottage's chimney smoke rising above the trees and changes direction toward it without a second thought."
+              }
+            },
+            {
+              "id": "1cfa2318-944c-4bb6-a10e-ae56133d2bc7",
+              "scene": "d5e92fa2-e3be-4726-89f5-47e36a5cbdba",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "31d69139-2ee4-47d0-95b3-f660f23f3294",
+              "scene": "d5e92fa2-e3be-4726-89f5-47e36a5cbdba",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Someone's home. Someone's home might know the way back to the village."
+              }
+            }
+          ],
+          "cast": [
+            "5c55ce3a-7d50-44c9-a550-651dced88d02"
+          ]
+        },
+        {
+          "id": "795f1880-a548-4429-b7e3-7594280ddddc",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "BEARS' COTTAGE - KITCHEN",
+            "time": "LATER",
+            "no": 4
+          },
+          "body": [
+            {
+              "id": "3a6ee4ff-234a-45a2-a525-223ecd04a10e",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Goldilocks peers through the kitchen window, knocks twice on the green door, and lets herself in when no one answers, calling out a polite hello that no one is present to hear."
+              }
+            },
+            {
+              "id": "c9646dcf-b060-468b-8cb4-08f6f44a244f",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The three bowls of porridge sit untouched on the table. She tastes the large bowl first."
+              }
+            },
+            {
+              "id": "02df1881-24b9-4a59-908e-976a5374522b",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "2ebe1e45-ff91-4748-92de-790b2e851b5d",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Too hot."
+              }
+            },
+            {
+              "id": "8267e8eb-26f6-426e-a641-ea88f61e989e",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "She tastes the middling bowl next, wrinkling her nose slightly."
+              }
+            },
+            {
+              "id": "ef9d5956-6a0d-416d-97ab-24cd38f6e5a2",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "f8ca0fd3-a8ac-496e-b279-9401880563f9",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Too cold. Whoever made this left far too long ago."
+              }
+            },
+            {
+              "id": "498b1b6e-a45e-4df1-83b2-5cba84cddae2",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "She tastes the small bowl, and empties it entirely before she notices she's done so."
+              }
+            },
+            {
+              "id": "09e6ee67-2a81-482e-a31f-735dd9d21433",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "8d1925b3-5e55-472e-85f4-33ff6774b41c",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Just right. Just right is a rare thing to find, honestly."
+              }
+            },
+            {
+              "id": "2cfac5ca-922a-4496-9932-d4a0910899be",
+              "scene": "795f1880-a548-4429-b7e3-7594280ddddc",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "She sets the empty bowl down with a small, satisfied sigh, and wanders further into the cottage."
+              }
+            }
+          ],
+          "cast": [
+            "5c55ce3a-7d50-44c9-a550-651dced88d02"
+          ]
+        },
+        {
+          "id": "e85d1348-0531-4f0f-8421-184f907b4706",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "BEARS' COTTAGE - SITTING ROOM",
+            "time": "CONTINUOUS",
+            "no": 5
+          },
+          "body": [
+            {
+              "id": "bf8fd21a-fa09-4384-90d1-9ef018ff124d",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Three CHAIRS face a cold hearth: one broad and high-backed, one cushioned and low, one small and plainly made. Goldilocks tries the large one first, climbing up with some effort."
+              }
+            },
+            {
+              "id": "96ece3fb-b873-4488-80c0-9b58dc76ad8d",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "6f00e0b8-6c4f-49d6-a4e5-7ca4e966c7bb",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Far too firm. Whoever sits here must never relax at all."
+              }
+            },
+            {
+              "id": "b52b706a-f545-4842-bdae-e056aefd969c",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "She climbs down and tries the middling chair, sinking further than expected into its cushions."
+              }
+            },
+            {
+              "id": "6446ee01-2989-4d18-a1bc-f33a8518565d",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "2fc048bc-5711-418a-af85-bbebb83c8038",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Too soft, and lopsided besides. One leg's shorter than the others, I'd wager."
+              }
+            },
+            {
+              "id": "5f974141-e8c0-49e2-8ae1-9724892b6818",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The small chair fits perfectly, right up until it doesn't - one leg gives way beneath her with a sharp crack, and she tips gently backward onto the rug, more startled than hurt."
+              }
+            },
+            {
+              "id": "bec907ea-0bd3-4c6d-83b8-4d35f2fc30a2",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "4f602ad9-19e0-40db-bdc7-d4e06730b953",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "from the floor"
+              }
+            },
+            {
+              "id": "4b68d7fd-5312-4466-9897-f27ec7030d99",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Oh, bother. That one's broken now, I'm afraid."
+              }
+            },
+            {
+              "id": "0b150fd4-3f6b-404e-9755-1e25c32c6235",
+              "scene": "e85d1348-0531-4f0f-8421-184f907b4706",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "She picks herself up, dusts off her skirts, and continues her exploration further into the cottage as though nothing at all had happened."
+              }
+            }
+          ],
+          "cast": [
+            "5c55ce3a-7d50-44c9-a550-651dced88d02"
+          ]
+        },
+        {
+          "id": "0b99143a-5b44-4e10-bc8b-865ad2479132",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "BEARS' COTTAGE - STAIRWAY",
+            "time": "CONTINUOUS",
+            "no": 6
+          },
+          "body": [
+            {
+              "id": "250ab7e8-f3fe-470a-b386-5cbc4757aef7",
+              "scene": "0b99143a-5b44-4e10-bc8b-865ad2479132",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A narrow wooden stairway climbs to the upper floor. Goldilocks pauses at the bottom, glancing back once toward the front door, then shrugs and climbs on up, curiosity plainly winning out over caution."
+              }
+            }
+          ],
+          "cast": []
+        },
+        {
+          "id": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "BEARS' COTTAGE - BEDROOM",
+            "time": "CONTINUOUS",
+            "no": 7
+          },
+          "body": [
+            {
+              "id": "31d77688-5ad7-4c03-8735-bc6899a19cab",
+              "scene": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Three BEDS, largest to smallest, each neatly made. Goldilocks climbs onto the large one first, bouncing experimentally."
+              }
+            },
+            {
+              "id": "3e184b36-73be-4020-ada5-3d29ee2104cd",
+              "scene": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "377162ff-fb11-40d2-a8df-b01f3b494b6d",
+              "scene": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Too hard. Like sleeping on a stack of firewood."
+              }
+            },
+            {
+              "id": "549595db-ad0e-4169-a3ef-939652d5785d",
+              "scene": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "She tries the middling bed next, sinking almost out of sight into its deep quilts."
+              }
+            },
+            {
+              "id": "12c325cc-5bdc-4392-a1ee-823b498f8f9b",
+              "scene": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02"
+            },
+            {
+              "id": "d90c4b7c-86ab-48f8-b05c-4d7431a843f7",
+              "scene": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "5c55ce3a-7d50-44c9-a550-651dced88d02",
+              "text": {
+                "en": "Too soft. I'd never find my way out again."
+              }
+            },
+            {
+              "id": "ab347d58-55c9-446a-862c-b40337c6005f",
+              "scene": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The small bed is exactly right, and within moments she is fast asleep beneath its patchwork quilt, one arm trailing off the edge, entirely at ease."
+              }
+            }
+          ],
+          "cast": [
+            "5c55ce3a-7d50-44c9-a550-651dced88d02"
+          ]
+        },
+        {
+          "id": "8201c61a-a56a-46a7-996c-eb908997621a",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "FOREST PATH",
+            "time": "LATER",
+            "no": 8
+          },
+          "body": [
+            {
+              "id": "0ebdf477-6a22-4975-b03c-c5d4b6844bea",
+              "scene": "8201c61a-a56a-46a7-996c-eb908997621a",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The three bears amble homeward, Baby Bear trailing a stick along the ground, the honey jar swinging from Papa Bear's paw after all."
+              }
+            },
+            {
+              "id": "99144fe3-4f74-42c6-9aa8-80a0920d69f1",
+              "scene": "8201c61a-a56a-46a7-996c-eb908997621a",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+            },
+            {
+              "id": "b2f519c1-fccf-4f71-8ef4-0f5a8a5b3fb3",
+              "scene": "8201c61a-a56a-46a7-996c-eb908997621a",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+              "text": {
+                "en": "Breakfast should be just the right temperature by now."
+              }
+            },
+            {
+              "id": "bc517343-0dc0-4bb4-92c7-d6f840ade123",
+              "scene": "8201c61a-a56a-46a7-996c-eb908997621a",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4"
+            },
+            {
+              "id": "557a1dbf-684e-4915-9fef-6c71141665f2",
+              "scene": "8201c61a-a56a-46a7-996c-eb908997621a",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4",
+              "text": {
+                "en": "It always is, if you're patient enough to let it cool properly."
+              }
+            }
+          ],
+          "cast": [
+            "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+            "6d49a234-0825-4159-922d-23c5707ba6b4"
+          ]
+        },
+        {
+          "id": "79283be9-b61d-487e-89f5-19f1523b29fd",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "BEARS' COTTAGE - KITCHEN",
+            "time": "CONTINUOUS",
+            "no": 9
+          },
+          "body": [
+            {
+              "id": "0ad43b01-6095-4314-88c3-85399a4ca947",
+              "scene": "79283be9-b61d-487e-89f5-19f1523b29fd",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The three bears return, unhurried, until Papa Bear stops short at the sight of the table."
+              }
+            },
+            {
+              "id": "377097b5-d606-4be2-ac2f-7c33349bbc4a",
+              "scene": "79283be9-b61d-487e-89f5-19f1523b29fd",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2"
+            },
+            {
+              "id": "320d84c4-815f-4068-85c7-3a88893e2f20",
+              "scene": "79283be9-b61d-487e-89f5-19f1523b29fd",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+              "text": {
+                "en": "Someone's had a taste of my porridge."
+              }
+            },
+            {
+              "id": "22928663-d8bf-4092-bef0-361d58b36e48",
+              "scene": "79283be9-b61d-487e-89f5-19f1523b29fd",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4"
+            },
+            {
+              "id": "f8089b0b-dbc5-4450-8f39-460900fa9484",
+              "scene": "79283be9-b61d-487e-89f5-19f1523b29fd",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4",
+              "text": {
+                "en": "Someone's had a taste of mine, too, and left it a good deal messier than they found it."
+              }
+            },
+            {
+              "id": "bd127b18-7b05-49db-af7d-f0a47e64be65",
+              "scene": "79283be9-b61d-487e-89f5-19f1523b29fd",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+            },
+            {
+              "id": "e0d851e3-1b1b-41cd-ab49-ecf360a3736e",
+              "scene": "79283be9-b61d-487e-89f5-19f1523b29fd",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "staring into his empty bowl"
+              }
+            },
+            {
+              "id": "36a69da8-c53c-4c98-886f-2390361ff34e",
+              "scene": "79283be9-b61d-487e-89f5-19f1523b29fd",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+              "text": {
+                "en": "Someone's finished all of mine! Every single spoonful!"
+              }
+            }
+          ],
+          "cast": [
+            "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+            "6d49a234-0825-4159-922d-23c5707ba6b4",
+            "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+          ]
+        },
+        {
+          "id": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "BEARS' COTTAGE - SITTING ROOM",
+            "time": "CONTINUOUS",
+            "no": 10
+          },
+          "body": [
+            {
+              "id": "2548d6da-5fe2-4c41-8420-c55103c5f60a",
+              "scene": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The bears move through to the sitting room. Papa Bear notices his chair's cushion askew; Mama Bear finds hers faintly dented on one side."
+              }
+            },
+            {
+              "id": "1dcfc2f1-debb-4822-8d79-aa2929610de8",
+              "scene": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2"
+            },
+            {
+              "id": "91ae1c17-b7e6-45af-8451-150db6c5664c",
+              "scene": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+              "text": {
+                "en": "Someone's been sitting in my chair."
+              }
+            },
+            {
+              "id": "0fb3e12a-ba97-4976-9b7a-9cedcac8a59c",
+              "scene": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4"
+            },
+            {
+              "id": "4d76106d-c02c-43c1-824a-eb9a14193be6",
+              "scene": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4",
+              "text": {
+                "en": "Someone's been sitting in mine as well."
+              }
+            },
+            {
+              "id": "81f41db1-4422-460a-88a0-dab9c801e834",
+              "scene": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+            },
+            {
+              "id": "d9d9ebd8-d3ac-4f40-90bb-476a5bd8e6b8",
+              "scene": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "discovering the wreckage"
+              }
+            },
+            {
+              "id": "807543c2-5513-437d-8e4f-1e19316479f9",
+              "scene": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+              "text": {
+                "en": "Someone's been sitting in mine, and broken it clean through!"
+              }
+            }
+          ],
+          "cast": [
+            "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+            "6d49a234-0825-4159-922d-23c5707ba6b4",
+            "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+          ]
+        },
+        {
+          "id": "241a23ee-812b-4060-9abd-164c98218159",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "BEARS' COTTAGE - BEDROOM",
+            "time": "CONTINUOUS",
+            "no": 11
+          },
+          "body": [
+            {
+              "id": "8cda0f7d-4baa-452e-b74c-c489c83283f8",
+              "scene": "241a23ee-812b-4060-9abd-164c98218159",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "They climb the stairs together, more curious now than concerned, and find the beds in various states of disturbance."
+              }
+            },
+            {
+              "id": "3c923af7-6a38-4d01-ab0b-f7d61823fc96",
+              "scene": "241a23ee-812b-4060-9abd-164c98218159",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2"
+            },
+            {
+              "id": "664e1fc4-52a3-4bf9-bd81-fe87cb20159e",
+              "scene": "241a23ee-812b-4060-9abd-164c98218159",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+              "text": {
+                "en": "Someone's been lying in my bed."
+              }
+            },
+            {
+              "id": "7c7dcdcd-00a7-41fe-97d3-804c64794a7e",
+              "scene": "241a23ee-812b-4060-9abd-164c98218159",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4"
+            },
+            {
+              "id": "8c42a750-ff3a-409a-acb8-236ebf747f33",
+              "scene": "241a23ee-812b-4060-9abd-164c98218159",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4",
+              "text": {
+                "en": "Someone's been lying in mine, too."
+              }
+            },
+            {
+              "id": "1330caa6-3992-43cc-bdfc-a65cfa697ca7",
+              "scene": "241a23ee-812b-4060-9abd-164c98218159",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+            },
+            {
+              "id": "e480cf0f-25b2-4d94-8be3-331067b6a091",
+              "scene": "241a23ee-812b-4060-9abd-164c98218159",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+              "text": {
+                "en": "Someone's asleep in my bed - and here she is!"
+              }
+            },
+            {
+              "id": "c14879cd-8d72-4c6a-ad2b-699ee82c7a32",
+              "scene": "241a23ee-812b-4060-9abd-164c98218159",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Goldilocks wakes to three faces peering down at her, blinks once, takes a full second to understand the scene, and is out the window and across the garden before anyone can offer her a proper breakfast."
+              }
+            }
+          ],
+          "cast": [
+            "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+            "6d49a234-0825-4159-922d-23c5707ba6b4",
+            "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+          ]
+        },
+        {
+          "id": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+          "authors": [
+            "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "BEARS' COTTAGE",
+            "time": "CONTINUOUS",
+            "no": 12
+          },
+          "body": [
+            {
+              "id": "b4c0403c-f14d-4608-87ab-482c5f2acc9b",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The three bears watch from the upstairs window as Goldilocks sprints across the garden and disappears into the tree line without a single backward glance."
+              }
+            },
+            {
+              "id": "9c96c1c4-e2c0-4368-8ae6-a7cb7b3f1aea",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4"
+            },
+            {
+              "id": "0bd50fde-0488-40e6-a984-0da1690ac391",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+              "text": {
+                "en": "Should we go after her?"
+              }
+            },
+            {
+              "id": "1c1ad39e-e58d-47a2-b8b4-d314a69315a3",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2"
+            },
+            {
+              "id": "a8f21f01-6631-4586-b0b3-4e81a9f005f7",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+              "text": {
+                "en": "I imagine she's learned quite enough for one morning."
+              }
+            },
+            {
+              "id": "39466420-339c-41dc-a8e3-3c1d6c47340e",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "character",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4"
+            },
+            {
+              "id": "04f85531-8240-4c27-90a5-800e4867dae6",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "watching her go"
+              }
+            },
+            {
+              "id": "45644e53-01d3-4bb4-adf0-a385fcd0b295",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "dialogue",
+              "character": "6d49a234-0825-4159-922d-23c5707ba6b4",
+              "text": {
+                "en": "Well. At least she liked the porridge. That's more than I can say for some visitors."
+              }
+            },
+            {
+              "id": "c9b44f6c-1227-4a85-8a27-5f1b0fdf5fdb",
+              "scene": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+              "authors": [
+                "9c700c6e-ca24-4f9f-b07b-d5acf861c762"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Baby Bear surveys his broken chair with a philosophical sigh and begins, without being asked, to see what can be done about mending it."
+              }
+            }
+          ],
+          "cast": [
+            "e7b4c0d6-5f64-4d11-9f0f-5fab5320d4c4",
+            "424f1866-5492-4aaf-bbed-f77eb97fbcc2",
+            "6d49a234-0825-4159-922d-23c5707ba6b4"
+          ]
+        }
+      ]
+    }
+  },
+  "breakdown": {
+    "version": "0.1.0",
+    "id": "5fe17c24-975b-48b3-b0d6-d5e2fd9b90df",
+    "scriptId": "06355deb-c273-42c4-8b6d-d7f1e85aad96",
+    "created": "2026-09-12T07:35:08.746Z",
+    "updated": "2026-09-12T07:35:08.765Z",
+    "tags": [
+      {
+        "id": "2f7f6794-f10f-47b2-8604-907d66c7d4e0",
+        "category": "props",
+        "key": "porridge",
+        "label": "Porridge",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "fa2eb0a0-07d8-4cb0-a3cd-dd9a48857802",
+            "sceneId": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+            "elementId": "1110eaa3-5d87-4105-902a-5ec862391c9a",
+            "start": 15,
+            "end": 23,
+            "text": "PORRIDGE",
+            "source": "user",
+            "sceneKey": "a5fb6b98",
+            "elementKey": "89cd9395"
+          },
+          {
+            "id": "9440797f-fc2c-4135-b668-668f93b64cd2",
+            "sceneId": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+            "elementId": "39ae8654-03b5-4043-adbf-f8146522136c",
+            "start": 80,
+            "end": 88,
+            "text": "porridge",
+            "source": "user",
+            "sceneKey": "a5fb6b98",
+            "elementKey": "89cd9395"
+          },
+          {
+            "id": "21afd857-f90e-4bf8-87f3-1cf13ce3a199",
+            "sceneId": "795f1880-a548-4429-b7e3-7594280ddddc",
+            "elementId": "c9646dcf-b060-468b-8cb4-08f6f44a244f",
+            "start": 19,
+            "end": 27,
+            "text": "porridge",
+            "source": "user",
+            "sceneKey": "674f3cc7",
+            "elementKey": "89cd9395"
+          },
+          {
+            "id": "277b97e9-a906-44e9-b0e2-e710018b1d35",
+            "sceneId": "79283be9-b61d-487e-89f5-19f1523b29fd",
+            "elementId": "320d84c4-815f-4068-85c7-3a88893e2f20",
+            "start": 28,
+            "end": 36,
+            "text": "porridge",
+            "source": "user",
+            "sceneKey": "a5fb6b98",
+            "elementKey": "89cd9395"
+          },
+          {
+            "id": "e12d17f2-ec4a-4947-a1f9-39aa33520190",
+            "sceneId": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+            "elementId": "45644e53-01d3-4bb4-adf0-a385fcd0b295",
+            "start": 29,
+            "end": 37,
+            "text": "porridge",
+            "source": "user",
+            "sceneKey": "76276bb7",
+            "elementKey": "89cd9395"
+          }
+        ]
+      },
+      {
+        "id": "6ebc9b55-af98-45f2-ace4-e3f608d94faa",
+        "category": "props",
+        "key": "honey-jar",
+        "label": "Honey Jar",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "a4a54618-15e5-4294-a72f-0c3246cfb48a",
+            "sceneId": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+            "elementId": "976207ac-2d89-4bdc-806f-075c420bba98",
+            "start": 35,
+            "end": 44,
+            "text": "honey jar",
+            "source": "user",
+            "sceneKey": "a5fb6b98",
+            "elementKey": "eb9e6f21"
+          },
+          {
+            "id": "c9923399-e221-4210-a349-cbc5f86b16d9",
+            "sceneId": "60ed68ea-d9a2-4f74-a8c1-fc7d1a1188ad",
+            "elementId": "69a58e12-ba9e-4e36-8784-423f9cc7a503",
+            "start": 12,
+            "end": 21,
+            "text": "honey jar",
+            "source": "user",
+            "sceneKey": "a5fb6b98",
+            "elementKey": "eb9e6f21"
+          },
+          {
+            "id": "dc8e9ed5-204a-4d0d-aa25-dbeb0af25886",
+            "sceneId": "8201c61a-a56a-46a7-996c-eb908997621a",
+            "elementId": "0ebdf477-6a22-4975-b03c-c5d4b6844bea",
+            "start": 81,
+            "end": 90,
+            "text": "honey jar",
+            "source": "user",
+            "sceneKey": "f76a31d7",
+            "elementKey": "eb9e6f21"
+          }
+        ]
+      },
+      {
+        "id": "ec689392-7c30-4e94-b1ba-804e1643084a",
+        "category": "setdressing",
+        "key": "chair",
+        "label": "Chairs",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "ca3bb976-613c-403c-8e3e-b4192bd0a40f",
+            "sceneId": "e85d1348-0531-4f0f-8421-184f907b4706",
+            "elementId": "b52b706a-f545-4842-bdae-e056aefd969c",
+            "start": 39,
+            "end": 44,
+            "text": "chair",
+            "source": "user",
+            "sceneKey": "1204bc25",
+            "elementKey": "5cb49d8a"
+          },
+          {
+            "id": "17c98c56-a3bf-462d-995d-28b7a9629c9e",
+            "sceneId": "e85d1348-0531-4f0f-8421-184f907b4706",
+            "elementId": "5f974141-e8c0-49e2-8ae1-9724892b6818",
+            "start": 10,
+            "end": 15,
+            "text": "chair",
+            "source": "user",
+            "sceneKey": "1204bc25",
+            "elementKey": "5cb49d8a"
+          },
+          {
+            "id": "a28c0951-590f-4dcc-9f62-7d70c3f19ee8",
+            "sceneId": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+            "elementId": "2548d6da-5fe2-4c41-8420-c55103c5f60a",
+            "start": 66,
+            "end": 71,
+            "text": "chair",
+            "source": "user",
+            "sceneKey": "1204bc25",
+            "elementKey": "5cb49d8a"
+          },
+          {
+            "id": "6de02ecc-a25f-412b-9294-8a4bafb1d186",
+            "sceneId": "ea1563c6-149f-4980-9cdc-47adb12955f0",
+            "elementId": "91ae1c17-b7e6-45af-8451-150db6c5664c",
+            "start": 29,
+            "end": 34,
+            "text": "chair",
+            "source": "user",
+            "sceneKey": "1204bc25",
+            "elementKey": "5cb49d8a"
+          },
+          {
+            "id": "29327b21-19e6-4fc5-89cc-d1973d32c401",
+            "sceneId": "034ab77b-3cd2-4de3-a9d1-9741017a9a41",
+            "elementId": "c9b44f6c-1227-4a85-8a27-5f1b0fdf5fdb",
+            "start": 29,
+            "end": 34,
+            "text": "chair",
+            "source": "user",
+            "sceneKey": "76276bb7",
+            "elementKey": "5cb49d8a"
+          }
+        ]
+      },
+      {
+        "id": "abf98161-af42-4d55-bb26-0fc5fa038093",
+        "category": "setdressing",
+        "key": "bed",
+        "label": "Beds",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "befeaae5-fb93-4b7d-b6fc-b5737d876a77",
+            "sceneId": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+            "elementId": "549595db-ad0e-4169-a3ef-939652d5785d",
+            "start": 23,
+            "end": 26,
+            "text": "bed",
+            "source": "user",
+            "sceneKey": "f14d5db4",
+            "elementKey": "50ae46ec"
+          },
+          {
+            "id": "fccb2606-fa51-4b24-b3bd-6080f19da949",
+            "sceneId": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+            "elementId": "ab347d58-55c9-446a-862c-b40337c6005f",
+            "start": 10,
+            "end": 13,
+            "text": "bed",
+            "source": "user",
+            "sceneKey": "f14d5db4",
+            "elementKey": "50ae46ec"
+          },
+          {
+            "id": "4fa05fe9-092a-444b-a70f-21228f4812aa",
+            "sceneId": "241a23ee-812b-4060-9abd-164c98218159",
+            "elementId": "664e1fc4-52a3-4bf9-bd81-fe87cb20159e",
+            "start": 27,
+            "end": 30,
+            "text": "bed",
+            "source": "user",
+            "sceneKey": "f14d5db4",
+            "elementKey": "50ae46ec"
+          },
+          {
+            "id": "3dbf3a44-d58c-436a-850f-514cb330e241",
+            "sceneId": "241a23ee-812b-4060-9abd-164c98218159",
+            "elementId": "e480cf0f-25b2-4d94-8be3-331067b6a091",
+            "start": 23,
+            "end": 26,
+            "text": "bed",
+            "source": "user",
+            "sceneKey": "f14d5db4",
+            "elementKey": "50ae46ec"
+          }
+        ]
+      },
+      {
+        "id": "6d65654d-31c6-48e3-a078-c04e505d92e5",
+        "category": "setdressing",
+        "key": "quilt",
+        "label": "Quilt",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "b5b36fec-3715-412c-8455-7aece62564b9",
+            "sceneId": "b1bc4a5f-cb20-43e4-bc2a-a8a4e4344545",
+            "elementId": "ab347d58-55c9-446a-862c-b40337c6005f",
+            "start": 92,
+            "end": 97,
+            "text": "quilt",
+            "source": "user",
+            "sceneKey": "f14d5db4",
+            "elementKey": "ec467e5e"
+          }
+        ]
+      }
+    ],
+    "scenes": {}
+  }
+}

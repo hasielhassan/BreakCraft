@@ -1,0 +1,41 @@
+.error-boundary {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--ds-spacing-6);
+  background-color: var(--ds-bg-app);
+}
+
+.error-boundary__card {
+  max-width: 560px;
+  background-color: var(--ds-bg-sidebar);
+  border: 1px solid var(--ds-border-color);
+  border-radius: var(--ds-radius-lg);
+  padding: var(--ds-spacing-6);
+  box-shadow: var(--ds-shadow-lg);
+}
+
+.error-boundary__card h1 {
+  margin-bottom: var(--ds-spacing-3);
+}
+
+.error-boundary__detail {
+  margin: var(--ds-spacing-4) 0;
+  padding: var(--ds-spacing-3);
+  background-color: var(--ds-bg-app);
+  border: 1px solid var(--ds-border-color);
+  border-radius: var(--ds-radius-md);
+  font-family: monospace;
+  font-size: var(--ds-font-size-xs);
+  color: var(--ds-color-error);
+  white-space: pre-wrap;
+  word-break: break-word;
+  user-select: text;
+}
+
+.error-boundary__actions {
+  display: flex;
+  gap: var(--ds-spacing-3);
+  flex-wrap: wrap;
+}

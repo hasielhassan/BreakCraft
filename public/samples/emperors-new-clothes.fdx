@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<FinalDraft DocumentType="Script" Template="No" Version="5">
+  <TitlePage>
+    <Content>
+      <Paragraph Type="General" Alignment="Center">
+        <Text>THE EMPEROR'S NEW CLOTHES</Text>
+      </Paragraph>
+      <Paragraph Type="General" Alignment="Center">
+        <Text>A BreakCraft sample adaptation</Text>
+      </Paragraph>
+      <Paragraph Type="General" Alignment="Center">
+        <Text>Hans Christian Andersen, freely retold - public domain</Text>
+      </Paragraph>
+    </Content>
+  </TitlePage>
+  <Content>
+    <Paragraph Type="Scene Heading" Number="1">
+      <Text>INT. PALACE - DRESSING ROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Wardrobes stand open on every wall, coats and capes spilling out in every colour a dye vat has ever produced. The EMPEROR turns before a tall mirror, unsatisfied, as always. A row of VALETS stands ready with still more garments draped over their arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The blue again? I wore the blue only last week.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST VALET</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The green, then, Your Majesty. Freshly pressed this morning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I wore green at the harvest banquet, and the autumn parade, and I believe the spring one as well. I require something entirely new. Something no one else has worn, or will ever wear, until I permit it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The CHAMBERLAIN enters and clears his throat with practiced diplomacy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHAMBERLAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your Majesty, two weavers have arrived from a distant province, asking an audience. They claim a cloth unlike any at court.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>immediately interested</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Every traveling weaver in the world claims that. Send them in regardless - I've an hour to spare before the council.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Two WEAVERS are shown in by the Chamberlain, each carrying an empty loom frame under one arm, and bow with elaborate confidence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your Majesty. We weave a cloth found nowhere else in the world.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SECOND WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Colours beyond any dye ever mixed. A pattern beyond any loom ever built.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And it carries one particular gift, unique among fabrics: it is invisible to anyone unfit for their position, or simply too foolish to see it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A ripple of unease crosses the row of Valets. The Emperor's eyes light up. Here, at last, is a suit worth having - and a test worth setting for everyone around him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Begin at once. Spare no thread, and no expense. I want it finished before the spring procession.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SECOND WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We'll need the finest silk thread the treasury can provide, and gold besides, for the pattern's edge.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Take whatever you require. The Chamberlain will see to it personally.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="2">
+      <Text>INT. WEAVERS' WORKSHOP - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A bare room, two empty looms by the window, entirely without thread of any kind. Crates of silk and gold sit stacked in one corner, untouched. The Weavers mime threading the looms with great and visible concentration.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>quietly, once the door is shut</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sell the silk quietly, a little at a time. No one will think to check a loom that was never going to hold thread in the first place.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SECOND WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And if anyone asks to see our progress?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then we'll be delighted to show them exactly as much as there is to see.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A knock. The CHAMBERLAIN arrives to inspect their progress on the Emperor's behalf, and stops dead in the doorway, seeing nothing at all on either loom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Come closer. Tell us honestly - have you ever seen such a weave in all your years at court?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Chamberlain thinks of his position, his pension, and his standing at court, all in the space of one long, careful breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHAMBERLAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>too brightly</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Remarkable. Truly remarkable. I shall tell His Majesty it exceeds every promise made to him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SECOND WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Perhaps note the gold thread along the hem, when you describe it. It took the longest to get right.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHAMBERLAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes - yes, the gold thread. Exquisite. I noticed it at once.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He backs out of the room rather faster than he entered it.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="3">
+      <Text>INT. PALACE - COUNCIL CHAMBER - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Chamberlain reports to the Emperor before a small gathering of MINISTERS, all of them listening with unusual intensity.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHAMBERLAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The cloth progresses beautifully, Your Majesty. I've rarely seen finer work in all my years of service.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Excellent. Send a minister to confirm it before the final fitting - I trust your eye, but a second opinion never hurts a decision of this size.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>An OLD MINISTER, visibly the most senior in the room, is dispatched with poorly concealed reluctance.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="4">
+      <Text>INT. WEAVERS' WORKSHOP - LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Old Minister squints at the empty looms for a long, uncomfortable moment, adjusting his spectacles twice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SECOND WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you think of the pattern along the border, Minister? We're rather proud of that section.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Old Minister's spectacles find nothing at all to focus on. He thinks of forty years of loyal service, and of how that service might end if he becomes the first fool at court.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>OLD MINISTER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>with great conviction</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Magnificent. I shall recommend it to His Majesty without a single reservation.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="5">
+      <Text>INT. PALACE - DRESSING ROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Weavers mime dressing the Emperor piece by piece - a collar, a sash, a long trailing cloak - all of it, to every eye but his own confidence, entirely empty air.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A half-circle of COURTIERS watches from a respectful distance, murmuring among themselves.</Text>
+    </Paragraph>
+    <DualDialogue>
+      <Paragraph Type="Character">
+        <Text>FIRST COURTIER</Text>
+      </Paragraph>
+      <Paragraph Type="Dialogue">
+        <Text>What craftsmanship. I've never seen its equal.</Text>
+      </Paragraph>
+      <Paragraph Type="Character">
+        <Text>SECOND COURTIER</Text>
+      </Paragraph>
+      <Paragraph Type="Dialogue">
+        <Text>The finest I've ever failed to find words for, truly.</Text>
+      </Paragraph>
+    </DualDialogue>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>admiring the mirror</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It fits as though I'd worn it my whole life. We shall wear it in the procession this very afternoon, before the whole city.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A wise choice, Your Majesty. Let everyone see it at once, and judge for themselves who among them can.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHAMBERLAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>a little too quickly</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'll have the procession route cleared at once, Your Majesty.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="6">
+      <Text>INT. PALACE - CORRIDOR - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Chamberlain hurries the two Weavers toward a side door, a heavy purse already changing hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHAMBERLAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your payment, in full, and my sincere advice that you be well past the city gates before sundown.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST WEAVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A pleasure doing business at court, Chamberlain.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two Weavers slip out through the side door and do not look back.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="7">
+      <Text>EXT. CITY STREET - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A CROWD lines the road, craning for a look as the procession approaches, banners overhead, drums keeping a slow and stately pace. The Emperor walks at its centre, chin high, dressed in nothing the eye can find.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crowd applauds, murmuring approval of a coat none of them can see, none willing to be the first fool to say so.</Text>
+    </Paragraph>
+    <DualDialogue>
+      <Paragraph Type="Character">
+        <Text>FIRST TOWNSPERSON</Text>
+      </Paragraph>
+      <Paragraph Type="Dialogue">
+        <Text>Look at the colour of that cloak.</Text>
+      </Paragraph>
+      <Paragraph Type="Character">
+        <Text>SECOND TOWNSPERSON</Text>
+      </Paragraph>
+      <Paragraph Type="Dialogue">
+        <Text>Finest I've seen at any procession, without question.</Text>
+      </Paragraph>
+    </DualDialogue>
+    <Paragraph Type="Action">
+      <Text>A CHILD, perched on her father's shoulders near the front, has no such reputation to protect, and squints at the Emperor with open confusion.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHILD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But he isn't wearing anything at all!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her father tries, briefly and without conviction, to hush her. It's already too late.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A ripple of laughter starts where she sits and spreads outward through the crowd, quiet at first, then impossible to hold back. Voices pick it up on every side of the street.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIRST TOWNSPERSON</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>under his breath, to the second</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She's right, you know. I couldn't see a thing either. I assumed it was only me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SECOND TOWNSPERSON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I assumed the very same. What a relief to hear it said aloud.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Emperor hears the laughter rolling toward him down the length of the street. For one long moment his step falters - then he lifts his chin higher still and walks on, unwilling to be the one who confirms it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Chamberlain hurries to keep pace beside him, holding up the hem of a cloak that was never there, his composure the last thing in the procession still intact.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="8">
+      <Text>INT. PALACE - DRESSING ROOM - LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Emperor stands alone before the tall mirror, the room quiet now, the wardrobes still open on every wall behind him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>to his own reflection</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A child said it first. Not a minister, not a courtier - a child, who had nothing at all to lose by saying it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Chamberlain enters quietly, uncertain of his welcome.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHAMBERLAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shall I send word to find the weavers, Your Majesty?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EMPEROR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Send word to find the blue coat instead. The one from last week. It never once needed anyone's honesty to be real.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Chamberlain allows himself the smallest, most careful smile of the entire day, and goes to fetch it.</Text>
+    </Paragraph>
+  </Content>
+</FinalDraft>

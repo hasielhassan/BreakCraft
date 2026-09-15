@@ -1,0 +1,1690 @@
+{
+  "version": "0.1.0",
+  "generator": "BreakCraft",
+  "saved": "2026-09-12T07:35:08.843Z",
+  "source": {
+    "fileName": "emperors-new-clothes.fdx",
+    "format": "fdx",
+    "importedAt": "2026-09-12T07:35:08.843Z"
+  },
+  "script": {
+    "id": "90cfdaf6-7b5e-45ac-a27e-39cee418dcff",
+    "version": "1.0.0",
+    "generator": {
+      "name": "BreakCraft",
+      "version": "0.1.0"
+    },
+    "title": {
+      "en": "THE EMPEROR'S NEW CLOTHES"
+    },
+    "lang": "en",
+    "charset": "utf-8",
+    "dir": "ltr",
+    "authors": [
+      {
+        "id": "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4",
+        "given": "Unknown",
+        "family": "Author"
+      }
+    ],
+    "characters": [
+      {
+        "id": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+        "name": "EMPEROR",
+        "aliases": [],
+        "traits": [],
+        "slug": "emperor"
+      },
+      {
+        "id": "43d685df-3d1f-44f6-b615-934cee2a6fb8",
+        "name": "FIRST VALET",
+        "aliases": [],
+        "traits": [],
+        "slug": "first-valet"
+      },
+      {
+        "id": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+        "name": "CHAMBERLAIN",
+        "aliases": [],
+        "traits": [],
+        "slug": "chamberlain"
+      },
+      {
+        "id": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+        "name": "FIRST WEAVER",
+        "aliases": [],
+        "traits": [],
+        "slug": "first-weaver"
+      },
+      {
+        "id": "ec40d5d2-1961-4429-9066-e91e6e21c8f3",
+        "name": "SECOND WEAVER",
+        "aliases": [],
+        "traits": [],
+        "slug": "second-weaver"
+      },
+      {
+        "id": "d6d8a76b-aba6-4bb0-9745-7e2b307de47b",
+        "name": "OLD MINISTER",
+        "aliases": [],
+        "traits": [],
+        "slug": "old-minister"
+      },
+      {
+        "id": "a13a9eea-d721-4633-b6e6-999eda982259",
+        "name": "FIRST COURTIER",
+        "aliases": [],
+        "traits": [],
+        "slug": "first-courtier"
+      },
+      {
+        "id": "c53c0362-cb10-432b-8073-df3cad3264db",
+        "name": "SECOND COURTIER",
+        "aliases": [],
+        "traits": [],
+        "slug": "second-courtier"
+      },
+      {
+        "id": "2c7e5d61-171e-46d1-9398-913bdbc187f1",
+        "name": "FIRST TOWNSPERSON",
+        "aliases": [],
+        "traits": [],
+        "slug": "first-townsperson"
+      },
+      {
+        "id": "1b3b179e-50f7-4456-baaf-ea85d7fd8d69",
+        "name": "SECOND TOWNSPERSON",
+        "aliases": [],
+        "traits": [],
+        "slug": "second-townsperson"
+      },
+      {
+        "id": "579fbb9c-5202-499f-9428-ca5fbbc2f85d",
+        "name": "CHILD",
+        "aliases": [],
+        "traits": [],
+        "slug": "child"
+      }
+    ],
+    "document": {
+      "cover": {
+        "title": {
+          "en": "THE EMPEROR'S NEW CLOTHES"
+        },
+        "authors": [
+          "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+        ],
+        "extra": {
+          "en": "THE EMPEROR'S NEW CLOTHES\nA BreakCraft sample adaptation\nHans Christian Andersen, freely retold - public domain"
+        }
+      },
+      "scenes": [
+        {
+          "id": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+          "authors": [
+            "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "PALACE - DRESSING ROOM",
+            "time": "DAY",
+            "no": 1
+          },
+          "body": [
+            {
+              "id": "4d4e12b8-7621-4f68-83c2-48fdd86dc0b5",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Wardrobes stand open on every wall, coats and capes spilling out in every colour a dye vat has ever produced. The EMPEROR turns before a tall mirror, unsatisfied, as always. A row of VALETS stands ready with still more garments draped over their arms."
+              }
+            },
+            {
+              "id": "26725c2f-a0d9-4af0-8e17-81dc6f39bd7c",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "1df7c929-5893-45db-9328-70ded6b619cb",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "The blue again? I wore the blue only last week."
+              }
+            },
+            {
+              "id": "95b382fa-9419-44e0-8952-349b154bf6ce",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "43d685df-3d1f-44f6-b615-934cee2a6fb8"
+            },
+            {
+              "id": "260c40ee-d704-4c0c-a1eb-5477429fc48c",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "43d685df-3d1f-44f6-b615-934cee2a6fb8",
+              "text": {
+                "en": "The green, then, Your Majesty. Freshly pressed this morning."
+              }
+            },
+            {
+              "id": "eb6c9748-9862-42bb-b559-c594092c92bf",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "4ed88522-811d-407e-b81a-e99b4ec35a95",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "I wore green at the harvest banquet, and the autumn parade, and I believe the spring one as well. I require something entirely new. Something no one else has worn, or will ever wear, until I permit it."
+              }
+            },
+            {
+              "id": "e86fd77f-997d-4b27-8dfa-b80d6866e3c4",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The CHAMBERLAIN enters and clears his throat with practiced diplomacy."
+              }
+            },
+            {
+              "id": "fc294114-4e62-478c-bdfa-082d7d91048d",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+            },
+            {
+              "id": "2a8a7074-c3e2-4894-ae58-5fc8997707fd",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+              "text": {
+                "en": "Your Majesty, two weavers have arrived from a distant province, asking an audience. They claim a cloth unlike any at court."
+              }
+            },
+            {
+              "id": "cd3b906a-ff87-495a-8af5-c4719dc28411",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "b0e15b0d-e1aa-4542-9e12-88e8f334f86e",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "immediately interested"
+              }
+            },
+            {
+              "id": "965e1485-b828-44d3-a5fd-dcd476a76c3e",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "Every traveling weaver in the world claims that. Send them in regardless - I've an hour to spare before the council."
+              }
+            },
+            {
+              "id": "f2a3d1f3-bd74-41fe-a3ca-b58fd182da9c",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Two WEAVERS are shown in by the Chamberlain, each carrying an empty loom frame under one arm, and bow with elaborate confidence."
+              }
+            },
+            {
+              "id": "d2186e51-5b94-46c3-b720-1b8fecd6fec4",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e"
+            },
+            {
+              "id": "bd07b3f7-d1bf-4984-9644-332872716e23",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+              "text": {
+                "en": "Your Majesty. We weave a cloth found nowhere else in the world."
+              }
+            },
+            {
+              "id": "c6d510d7-5a04-4870-8c18-e2316ec97e9b",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3"
+            },
+            {
+              "id": "bcf189de-c8fe-440d-b778-7b07228f89a1",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3",
+              "text": {
+                "en": "Colours beyond any dye ever mixed. A pattern beyond any loom ever built."
+              }
+            },
+            {
+              "id": "52c4cda0-2a39-48c9-9cf7-136e040efa4f",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e"
+            },
+            {
+              "id": "770c9bba-1a3f-4dac-a8d1-59eaf311ba73",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+              "text": {
+                "en": "And it carries one particular gift, unique among fabrics: it is invisible to anyone unfit for their position, or simply too foolish to see it."
+              }
+            },
+            {
+              "id": "d274a6b6-e008-479d-8423-6b0e1526b69e",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A ripple of unease crosses the row of Valets. The Emperor's eyes light up. Here, at last, is a suit worth having - and a test worth setting for everyone around him."
+              }
+            },
+            {
+              "id": "cfa98b76-7429-48b1-ba37-81a610ad406a",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "78b59ce4-64d1-4d17-b544-aa47d01a2ca8",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "Begin at once. Spare no thread, and no expense. I want it finished before the spring procession."
+              }
+            },
+            {
+              "id": "d4f1639b-d8a8-4882-b04a-707b527b94a6",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3"
+            },
+            {
+              "id": "ba4587ca-9c87-47da-b89b-b7a0948a4c99",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3",
+              "text": {
+                "en": "We'll need the finest silk thread the treasury can provide, and gold besides, for the pattern's edge."
+              }
+            },
+            {
+              "id": "24a989f7-c20c-4547-bb76-bdeca43a0edc",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "595d5f18-edd7-41df-bd1f-a2375549742d",
+              "scene": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "Take whatever you require. The Chamberlain will see to it personally."
+              }
+            }
+          ],
+          "cast": [
+            "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+            "43d685df-3d1f-44f6-b615-934cee2a6fb8",
+            "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+            "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+            "ec40d5d2-1961-4429-9066-e91e6e21c8f3"
+          ]
+        },
+        {
+          "id": "539ae154-7fcb-4688-86df-1e4ed296479a",
+          "authors": [
+            "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "WEAVERS' WORKSHOP",
+            "time": "DAY",
+            "no": 2
+          },
+          "body": [
+            {
+              "id": "5a2d448a-ac63-48c1-8cfe-8a16a8fb1d40",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A bare room, two empty looms by the window, entirely without thread of any kind. Crates of silk and gold sit stacked in one corner, untouched. The Weavers mime threading the looms with great and visible concentration."
+              }
+            },
+            {
+              "id": "445d96bb-fff2-4088-958b-268fa73bd573",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e"
+            },
+            {
+              "id": "3aa26722-9b08-490c-8122-d4704753c999",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "quietly, once the door is shut"
+              }
+            },
+            {
+              "id": "2c245c83-0200-42c9-a395-7ef215ced374",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+              "text": {
+                "en": "Sell the silk quietly, a little at a time. No one will think to check a loom that was never going to hold thread in the first place."
+              }
+            },
+            {
+              "id": "2cf66ffb-a12d-430f-ac2b-708c085eee95",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3"
+            },
+            {
+              "id": "3e97cb67-da70-4125-8c7a-69a89715c3c7",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3",
+              "text": {
+                "en": "And if anyone asks to see our progress?"
+              }
+            },
+            {
+              "id": "b285c6cc-9b3f-4dea-9ff9-8078d7502d83",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e"
+            },
+            {
+              "id": "75739eb4-df2b-4c15-82ae-dc6189648bfc",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+              "text": {
+                "en": "Then we'll be delighted to show them exactly as much as there is to see."
+              }
+            },
+            {
+              "id": "0897b3d8-cb82-46cb-b013-d109fc551704",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A knock. The CHAMBERLAIN arrives to inspect their progress on the Emperor's behalf, and stops dead in the doorway, seeing nothing at all on either loom."
+              }
+            },
+            {
+              "id": "2f96f962-e3a0-4294-a368-f09f2791328c",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e"
+            },
+            {
+              "id": "dbd1ebcd-3e1f-4cae-8f32-05711225a048",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+              "text": {
+                "en": "Come closer. Tell us honestly - have you ever seen such a weave in all your years at court?"
+              }
+            },
+            {
+              "id": "8a413097-eee7-4ead-a6e3-3ded284c9974",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Chamberlain thinks of his position, his pension, and his standing at court, all in the space of one long, careful breath."
+              }
+            },
+            {
+              "id": "790a69c0-5f20-4fd8-8595-172c755aa1db",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+            },
+            {
+              "id": "a317e9a5-e7db-4eaf-b9a8-09ef2fea6a83",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "too brightly"
+              }
+            },
+            {
+              "id": "15c278be-061b-46d7-a1d2-e1e1ccf5b086",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+              "text": {
+                "en": "Remarkable. Truly remarkable. I shall tell His Majesty it exceeds every promise made to him."
+              }
+            },
+            {
+              "id": "beff48d2-39e5-4323-bf07-a210d07f6b64",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3"
+            },
+            {
+              "id": "965025cb-efdd-491a-ac3a-72f029d3cbcc",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3",
+              "text": {
+                "en": "Perhaps note the gold thread along the hem, when you describe it. It took the longest to get right."
+              }
+            },
+            {
+              "id": "a66bc090-84fc-4d54-b932-30debcbef418",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+            },
+            {
+              "id": "c4f53903-0db2-41a5-b855-075a934fef33",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+              "text": {
+                "en": "Yes - yes, the gold thread. Exquisite. I noticed it at once."
+              }
+            },
+            {
+              "id": "dd604fa1-9554-43c3-ad14-065213e5e1c4",
+              "scene": "539ae154-7fcb-4688-86df-1e4ed296479a",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "He backs out of the room rather faster than he entered it."
+              }
+            }
+          ],
+          "cast": [
+            "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+            "ec40d5d2-1961-4429-9066-e91e6e21c8f3",
+            "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+          ]
+        },
+        {
+          "id": "f22a8c35-d0df-4110-ac67-11c389e4e8bd",
+          "authors": [
+            "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "PALACE - COUNCIL CHAMBER",
+            "time": "DAY",
+            "no": 3
+          },
+          "body": [
+            {
+              "id": "2b2188ef-bb08-43d0-816e-cc849dda7347",
+              "scene": "f22a8c35-d0df-4110-ac67-11c389e4e8bd",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Chamberlain reports to the Emperor before a small gathering of MINISTERS, all of them listening with unusual intensity."
+              }
+            },
+            {
+              "id": "c52ef7c0-91d1-4f9a-8a75-bb7427f77d60",
+              "scene": "f22a8c35-d0df-4110-ac67-11c389e4e8bd",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+            },
+            {
+              "id": "e9eecf8a-1c07-451d-8479-c5ad08f3c1cb",
+              "scene": "f22a8c35-d0df-4110-ac67-11c389e4e8bd",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+              "text": {
+                "en": "The cloth progresses beautifully, Your Majesty. I've rarely seen finer work in all my years of service."
+              }
+            },
+            {
+              "id": "f25e971d-18ea-435e-a790-575a90217980",
+              "scene": "f22a8c35-d0df-4110-ac67-11c389e4e8bd",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "dfb03702-065f-4872-b243-10d222e82f8c",
+              "scene": "f22a8c35-d0df-4110-ac67-11c389e4e8bd",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "Excellent. Send a minister to confirm it before the final fitting - I trust your eye, but a second opinion never hurts a decision of this size."
+              }
+            },
+            {
+              "id": "c646071e-db71-43ed-9163-250b85226170",
+              "scene": "f22a8c35-d0df-4110-ac67-11c389e4e8bd",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "An OLD MINISTER, visibly the most senior in the room, is dispatched with poorly concealed reluctance."
+              }
+            }
+          ],
+          "cast": [
+            "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+            "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+          ]
+        },
+        {
+          "id": "a6ed9691-acea-4511-b045-13b704c725b0",
+          "authors": [
+            "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "WEAVERS' WORKSHOP",
+            "time": "LATER",
+            "no": 4
+          },
+          "body": [
+            {
+              "id": "72df0c0c-7b05-4152-ada7-541ef3ec905f",
+              "scene": "a6ed9691-acea-4511-b045-13b704c725b0",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Old Minister squints at the empty looms for a long, uncomfortable moment, adjusting his spectacles twice."
+              }
+            },
+            {
+              "id": "a516068f-ae2d-4967-85b4-6e6da41fdde9",
+              "scene": "a6ed9691-acea-4511-b045-13b704c725b0",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3"
+            },
+            {
+              "id": "5bdee47b-ad11-46bb-b96f-5fc11db978a6",
+              "scene": "a6ed9691-acea-4511-b045-13b704c725b0",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "ec40d5d2-1961-4429-9066-e91e6e21c8f3",
+              "text": {
+                "en": "What do you think of the pattern along the border, Minister? We're rather proud of that section."
+              }
+            },
+            {
+              "id": "694e8f87-baee-4c91-9ca2-2ea2db00a650",
+              "scene": "a6ed9691-acea-4511-b045-13b704c725b0",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Old Minister's spectacles find nothing at all to focus on. He thinks of forty years of loyal service, and of how that service might end if he becomes the first fool at court."
+              }
+            },
+            {
+              "id": "13224740-9411-4400-b64e-277687a978b5",
+              "scene": "a6ed9691-acea-4511-b045-13b704c725b0",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "d6d8a76b-aba6-4bb0-9745-7e2b307de47b"
+            },
+            {
+              "id": "8ea2d0d8-92a7-4c77-8482-a628d5e10536",
+              "scene": "a6ed9691-acea-4511-b045-13b704c725b0",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "with great conviction"
+              }
+            },
+            {
+              "id": "cd2b985f-18df-4dda-aa63-e308a12f2660",
+              "scene": "a6ed9691-acea-4511-b045-13b704c725b0",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "d6d8a76b-aba6-4bb0-9745-7e2b307de47b",
+              "text": {
+                "en": "Magnificent. I shall recommend it to His Majesty without a single reservation."
+              }
+            }
+          ],
+          "cast": [
+            "ec40d5d2-1961-4429-9066-e91e6e21c8f3",
+            "d6d8a76b-aba6-4bb0-9745-7e2b307de47b"
+          ]
+        },
+        {
+          "id": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+          "authors": [
+            "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "PALACE - DRESSING ROOM",
+            "time": "DAY",
+            "no": 5
+          },
+          "body": [
+            {
+              "id": "d10b49d7-636e-401a-8bee-b1338553a23b",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Weavers mime dressing the Emperor piece by piece - a collar, a sash, a long trailing cloak - all of it, to every eye but his own confidence, entirely empty air."
+              }
+            },
+            {
+              "id": "2a3544dd-65c5-49aa-8bf3-2c7085bf5635",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A half-circle of COURTIERS watches from a respectful distance, murmuring among themselves."
+              }
+            },
+            {
+              "id": "f8535874-072f-4818-9e3f-5ae5ffcfc2a0",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "a13a9eea-d721-4633-b6e6-999eda982259"
+            },
+            {
+              "id": "454fcae7-3d3c-4f0a-936f-3ab64925f376",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "a13a9eea-d721-4633-b6e6-999eda982259",
+              "text": {
+                "en": "What craftsmanship. I've never seen its equal."
+              },
+              "dual": true
+            },
+            {
+              "id": "248af356-525d-4729-ade2-72e30297d210",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "c53c0362-cb10-432b-8073-df3cad3264db"
+            },
+            {
+              "id": "80e95dd0-84b4-4c7f-bf6d-e4152eb8ef31",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "c53c0362-cb10-432b-8073-df3cad3264db",
+              "text": {
+                "en": "The finest I've ever failed to find words for, truly."
+              },
+              "dual": true
+            },
+            {
+              "id": "2133c58d-2c41-4a40-ae13-110016b5eea7",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "525911e4-b31c-49e0-a077-5a398e632280",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "admiring the mirror"
+              }
+            },
+            {
+              "id": "6710633d-063e-4fb8-8df6-8b911d1cb809",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "It fits as though I'd worn it my whole life. We shall wear it in the procession this very afternoon, before the whole city."
+              }
+            },
+            {
+              "id": "920ada57-db44-4fe8-9d66-d2a4f28afa29",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e"
+            },
+            {
+              "id": "c1f782be-db5e-4e84-aa38-6b0191806a0d",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+              "text": {
+                "en": "A wise choice, Your Majesty. Let everyone see it at once, and judge for themselves who among them can."
+              }
+            },
+            {
+              "id": "b4789110-0ffe-4293-b73c-b0eab53d2673",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+            },
+            {
+              "id": "23e533d7-8677-4371-874e-41994a1a691c",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "a little too quickly"
+              }
+            },
+            {
+              "id": "5a80b80a-24db-49e6-a916-80a5e089624c",
+              "scene": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+              "text": {
+                "en": "I'll have the procession route cleared at once, Your Majesty."
+              }
+            }
+          ],
+          "cast": [
+            "a13a9eea-d721-4633-b6e6-999eda982259",
+            "c53c0362-cb10-432b-8073-df3cad3264db",
+            "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+            "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+            "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+          ]
+        },
+        {
+          "id": "55ccdb6e-8018-4705-a0df-e47e75582951",
+          "authors": [
+            "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "PALACE - CORRIDOR",
+            "time": "CONTINUOUS",
+            "no": 6
+          },
+          "body": [
+            {
+              "id": "b7addca2-efe0-48c0-877c-8ab948866474",
+              "scene": "55ccdb6e-8018-4705-a0df-e47e75582951",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Chamberlain hurries the two Weavers toward a side door, a heavy purse already changing hands."
+              }
+            },
+            {
+              "id": "17b495c9-3382-49ac-9431-f28688790d0a",
+              "scene": "55ccdb6e-8018-4705-a0df-e47e75582951",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+            },
+            {
+              "id": "24126a99-99a9-4a7f-94f7-5f3dab28d2df",
+              "scene": "55ccdb6e-8018-4705-a0df-e47e75582951",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+              "text": {
+                "en": "Your payment, in full, and my sincere advice that you be well past the city gates before sundown."
+              }
+            },
+            {
+              "id": "6785a59b-276c-4e70-a6a9-136db65210ad",
+              "scene": "55ccdb6e-8018-4705-a0df-e47e75582951",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e"
+            },
+            {
+              "id": "006f1823-0ef4-437d-b85b-7d8302eef544",
+              "scene": "55ccdb6e-8018-4705-a0df-e47e75582951",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "3ac19b5f-a0f7-4f89-901f-32b3676fc83e",
+              "text": {
+                "en": "A pleasure doing business at court, Chamberlain."
+              }
+            },
+            {
+              "id": "dc7413bf-c678-4b7c-b52c-458d30717887",
+              "scene": "55ccdb6e-8018-4705-a0df-e47e75582951",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The two Weavers slip out through the side door and do not look back."
+              }
+            }
+          ],
+          "cast": [
+            "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+            "3ac19b5f-a0f7-4f89-901f-32b3676fc83e"
+          ]
+        },
+        {
+          "id": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+          "authors": [
+            "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+          ],
+          "heading": {
+            "context": "EXT",
+            "setting": "CITY STREET",
+            "time": "DAY",
+            "no": 7
+          },
+          "body": [
+            {
+              "id": "c0e157e2-36e7-4526-9f75-8bf28c46289b",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A CROWD lines the road, craning for a look as the procession approaches, banners overhead, drums keeping a slow and stately pace. The Emperor walks at its centre, chin high, dressed in nothing the eye can find."
+              }
+            },
+            {
+              "id": "cfe2740a-2ae6-4127-9fad-8710abfb1b8f",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The crowd applauds, murmuring approval of a coat none of them can see, none willing to be the first fool to say so."
+              }
+            },
+            {
+              "id": "5344f517-7a50-4cc0-a61a-8a44459fff52",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "2c7e5d61-171e-46d1-9398-913bdbc187f1"
+            },
+            {
+              "id": "af167be4-ab04-4552-b8e5-12f742424be1",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "2c7e5d61-171e-46d1-9398-913bdbc187f1",
+              "text": {
+                "en": "Look at the colour of that cloak."
+              },
+              "dual": true
+            },
+            {
+              "id": "205093c1-ec5c-41f3-b1e9-ab464ff05d60",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "1b3b179e-50f7-4456-baaf-ea85d7fd8d69"
+            },
+            {
+              "id": "3937a8a3-977a-45c2-9a17-09d45c36dd31",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "1b3b179e-50f7-4456-baaf-ea85d7fd8d69",
+              "text": {
+                "en": "Finest I've seen at any procession, without question."
+              },
+              "dual": true
+            },
+            {
+              "id": "7586b3ea-9690-4933-ba7b-6d98cecff041",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A CHILD, perched on her father's shoulders near the front, has no such reputation to protect, and squints at the Emperor with open confusion."
+              }
+            },
+            {
+              "id": "89d9e557-9d32-4763-9d72-cf6315f827f1",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "579fbb9c-5202-499f-9428-ca5fbbc2f85d"
+            },
+            {
+              "id": "b0dba9f4-f792-408f-b6ee-4a9ef47d1c2f",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "579fbb9c-5202-499f-9428-ca5fbbc2f85d",
+              "text": {
+                "en": "But he isn't wearing anything at all!"
+              }
+            },
+            {
+              "id": "01387968-e7af-4fe9-afaf-cda6812a4fd1",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "Her father tries, briefly and without conviction, to hush her. It's already too late."
+              }
+            },
+            {
+              "id": "53485ceb-cf3b-4c0f-8732-83d2c85aff83",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "A ripple of laughter starts where she sits and spreads outward through the crowd, quiet at first, then impossible to hold back. Voices pick it up on every side of the street."
+              }
+            },
+            {
+              "id": "85b39919-a873-4e59-8cff-3412053dadeb",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "2c7e5d61-171e-46d1-9398-913bdbc187f1"
+            },
+            {
+              "id": "cb8aaefd-3e90-4a81-b31c-7dc3ec619741",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "under his breath, to the second"
+              }
+            },
+            {
+              "id": "fb4f1c37-a374-4418-801c-f2959ee31e13",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "2c7e5d61-171e-46d1-9398-913bdbc187f1",
+              "text": {
+                "en": "She's right, you know. I couldn't see a thing either. I assumed it was only me."
+              }
+            },
+            {
+              "id": "0eb08a52-0dc6-4e68-bad0-bb66b051c307",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "1b3b179e-50f7-4456-baaf-ea85d7fd8d69"
+            },
+            {
+              "id": "f4072097-07c1-4318-a9d4-f64213bb4a71",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "1b3b179e-50f7-4456-baaf-ea85d7fd8d69",
+              "text": {
+                "en": "I assumed the very same. What a relief to hear it said aloud."
+              }
+            },
+            {
+              "id": "693e6259-7984-472d-a44e-0b0939530a6c",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Emperor hears the laughter rolling toward him down the length of the street. For one long moment his step falters - then he lifts his chin higher still and walks on, unwilling to be the one who confirms it."
+              }
+            },
+            {
+              "id": "5c8bc0bf-9f57-409b-9f11-ff9c3d80623e",
+              "scene": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Chamberlain hurries to keep pace beside him, holding up the hem of a cloak that was never there, his composure the last thing in the procession still intact."
+              }
+            }
+          ],
+          "cast": [
+            "2c7e5d61-171e-46d1-9398-913bdbc187f1",
+            "1b3b179e-50f7-4456-baaf-ea85d7fd8d69",
+            "579fbb9c-5202-499f-9428-ca5fbbc2f85d"
+          ]
+        },
+        {
+          "id": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+          "authors": [
+            "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+          ],
+          "heading": {
+            "context": "INT",
+            "setting": "PALACE - DRESSING ROOM",
+            "time": "LATER",
+            "no": 8
+          },
+          "body": [
+            {
+              "id": "dd319dfa-08ec-4676-8a0b-3b8f46f6da13",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Emperor stands alone before the tall mirror, the room quiet now, the wardrobes still open on every wall behind him."
+              }
+            },
+            {
+              "id": "c5086474-d071-462f-b94e-25fc4165e544",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "c3202fce-f357-49a6-80ed-ed4532eb6204",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "parenthetical",
+              "text": {
+                "en": "to his own reflection"
+              }
+            },
+            {
+              "id": "e86070d3-3027-4330-867a-cfbd2749c0f5",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "A child said it first. Not a minister, not a courtier - a child, who had nothing at all to lose by saying it."
+              }
+            },
+            {
+              "id": "9a904c91-3cd4-4df0-a95b-b7955e303a63",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Chamberlain enters quietly, uncertain of his welcome."
+              }
+            },
+            {
+              "id": "e7b3b92d-0e73-4656-b28e-e05730507f55",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+            },
+            {
+              "id": "bb2f99f1-45ea-4d71-b23c-1c77778eea42",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa",
+              "text": {
+                "en": "Shall I send word to find the weavers, Your Majesty?"
+              }
+            },
+            {
+              "id": "4d310105-4501-4da0-9ec2-49ba876a3f79",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "character",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525"
+            },
+            {
+              "id": "ed759038-78fe-428f-a1ec-7cc1a77c6e6b",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "dialogue",
+              "character": "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+              "text": {
+                "en": "Send word to find the blue coat instead. The one from last week. It never once needed anyone's honesty to be real."
+              }
+            },
+            {
+              "id": "5142a706-3c67-4ba5-80e4-a52bd75410da",
+              "scene": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+              "authors": [
+                "ccf13c0c-dd9d-448e-8b98-5bc5a2e12ef4"
+              ],
+              "type": "action",
+              "text": {
+                "en": "The Chamberlain allows himself the smallest, most careful smile of the entire day, and goes to fetch it."
+              }
+            }
+          ],
+          "cast": [
+            "807a1fee-22f8-4177-8e5b-c2c2e8ca4525",
+            "37a88b5e-d738-4bb5-ac0e-fffa1c217aaa"
+          ]
+        }
+      ]
+    }
+  },
+  "breakdown": {
+    "version": "0.1.0",
+    "id": "77fc458c-5f3e-40da-b86c-51c7f14a3c50",
+    "scriptId": "90cfdaf6-7b5e-45ac-a27e-39cee418dcff",
+    "created": "2026-09-12T07:35:08.819Z",
+    "updated": "2026-09-12T07:35:08.843Z",
+    "tags": [
+      {
+        "id": "6ed18d9f-023f-4e92-9a29-d97b8306d8fd",
+        "category": "wardrobe",
+        "key": "blue-coat",
+        "label": "Blue Coat",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Costume",
+        "notes": "",
+        "instances": [
+          {
+            "id": "3774af0e-c9a5-462a-98a8-e86622e3b54b",
+            "sceneId": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+            "elementId": "1df7c929-5893-45db-9328-70ded6b619cb",
+            "start": 4,
+            "end": 8,
+            "text": "blue",
+            "source": "user",
+            "sceneKey": "b1c15cd6",
+            "elementKey": "82fbf5cd"
+          },
+          {
+            "id": "552aa819-7dfc-473e-8397-50f14fa1da8d",
+            "sceneId": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+            "elementId": "1df7c929-5893-45db-9328-70ded6b619cb",
+            "start": 27,
+            "end": 31,
+            "text": "blue",
+            "source": "user",
+            "sceneKey": "b1c15cd6",
+            "elementKey": "82fbf5cd"
+          },
+          {
+            "id": "77547001-e218-41ed-ac91-5cb3044e85f3",
+            "sceneId": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+            "elementId": "ed759038-78fe-428f-a1ec-7cc1a77c6e6b",
+            "start": 22,
+            "end": 26,
+            "text": "blue",
+            "source": "user",
+            "sceneKey": "2807eca6",
+            "elementKey": "82fbf5cd"
+          }
+        ]
+      },
+      {
+        "id": "aa87d097-161f-4088-bc64-fa23e87a1039",
+        "category": "setdressing",
+        "key": "loom",
+        "label": "Looms",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "d1c906ce-b745-43fe-9d60-ae56656b6588",
+            "sceneId": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+            "elementId": "f2a3d1f3-bd74-41fe-a3ca-b58fd182da9c",
+            "start": 68,
+            "end": 72,
+            "text": "loom",
+            "source": "user",
+            "sceneKey": "b1c15cd6",
+            "elementKey": "e8ef59bc"
+          },
+          {
+            "id": "72332657-f648-4e22-bfdb-1da09f02beb4",
+            "sceneId": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+            "elementId": "bcf189de-c8fe-440d-b778-7b07228f89a1",
+            "start": 56,
+            "end": 60,
+            "text": "loom",
+            "source": "user",
+            "sceneKey": "b1c15cd6",
+            "elementKey": "e8ef59bc"
+          },
+          {
+            "id": "e6b3d70a-4916-43f0-b53d-ae746ad565cb",
+            "sceneId": "539ae154-7fcb-4688-86df-1e4ed296479a",
+            "elementId": "2c245c83-0200-42c9-a395-7ef215ced374",
+            "start": 72,
+            "end": 76,
+            "text": "loom",
+            "source": "user",
+            "sceneKey": "6425fbf6",
+            "elementKey": "e8ef59bc"
+          },
+          {
+            "id": "feaa8082-3b82-42b1-b9e4-ef4c7424c8df",
+            "sceneId": "539ae154-7fcb-4688-86df-1e4ed296479a",
+            "elementId": "0897b3d8-cb82-46cb-b013-d109fc551704",
+            "start": 147,
+            "end": 151,
+            "text": "loom",
+            "source": "user",
+            "sceneKey": "6425fbf6",
+            "elementKey": "e8ef59bc"
+          }
+        ]
+      },
+      {
+        "id": "be90723a-3d12-45c8-8bc0-d630cd4b2e00",
+        "category": "setdressing",
+        "key": "tall-mirror",
+        "label": "Tall Mirror",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "9e79f419-70eb-4662-8fb7-cf345bbff991",
+            "sceneId": "d198ac91-f71f-47ff-b970-7c59758e93f5",
+            "elementId": "4d4e12b8-7621-4f68-83c2-48fdd86dc0b5",
+            "start": 142,
+            "end": 148,
+            "text": "mirror",
+            "source": "user",
+            "sceneKey": "b1c15cd6",
+            "elementKey": "2fc941c2"
+          },
+          {
+            "id": "3a2aab95-c4fd-4f87-812f-43981595fa38",
+            "sceneId": "f9ef5f6b-bac5-49b3-a2ee-d03ddd5e0bfb",
+            "elementId": "525911e4-b31c-49e0-a077-5a398e632280",
+            "start": 13,
+            "end": 19,
+            "text": "mirror",
+            "source": "user",
+            "sceneKey": "b1c15cd6",
+            "elementKey": "2fc941c2"
+          },
+          {
+            "id": "50697bbe-cbb2-4e8a-a106-9584e028becc",
+            "sceneId": "e5b4e4ab-9292-454f-80c3-2426a11e98ee",
+            "elementId": "dd319dfa-08ec-4676-8a0b-3b8f46f6da13",
+            "start": 41,
+            "end": 47,
+            "text": "mirror",
+            "source": "user",
+            "sceneKey": "2807eca6",
+            "elementKey": "2fc941c2"
+          }
+        ]
+      },
+      {
+        "id": "554e74d0-0686-4bdf-ba20-fdc29a674765",
+        "category": "props",
+        "key": "weavers-purse",
+        "label": "Weavers' Purse",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "4ebae911-bd2a-4a80-8358-4ce2d312e131",
+            "sceneId": "55ccdb6e-8018-4705-a0df-e47e75582951",
+            "elementId": "b7addca2-efe0-48c0-877c-8ab948866474",
+            "start": 68,
+            "end": 73,
+            "text": "purse",
+            "source": "user",
+            "sceneKey": "ec5ecfcb",
+            "elementKey": "50d3cfc0"
+          }
+        ]
+      },
+      {
+        "id": "72cd4ea2-5f91-4034-90d2-74eb47fa8b4c",
+        "category": "props",
+        "key": "ministers-spectacle",
+        "label": "Minister's Spectacles",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Art",
+        "notes": "",
+        "instances": [
+          {
+            "id": "2601547d-6936-4592-9df6-9762e025e143",
+            "sceneId": "a6ed9691-acea-4511-b045-13b704c725b0",
+            "elementId": "72df0c0c-7b05-4152-ada7-541ef3ec905f",
+            "start": 92,
+            "end": 102,
+            "text": "spectacles",
+            "source": "user",
+            "sceneKey": "84c504c6",
+            "elementKey": "fa6f8332"
+          },
+          {
+            "id": "c967f39e-cd76-43d1-b878-fd70a5f84546",
+            "sceneId": "a6ed9691-acea-4511-b045-13b704c725b0",
+            "elementId": "694e8f87-baee-4c91-9ca2-2ea2db00a650",
+            "start": 19,
+            "end": 29,
+            "text": "spectacles",
+            "source": "user",
+            "sceneKey": "84c504c6",
+            "elementKey": "fa6f8332"
+          }
+        ]
+      },
+      {
+        "id": "bc8098d7-b6b1-43b8-941e-2882068f8ca4",
+        "category": "background",
+        "key": "crowd",
+        "label": "Crowd",
+        "status": "confirmed",
+        "qty": 1,
+        "department": "Production",
+        "notes": "",
+        "instances": [
+          {
+            "id": "3d9849e2-44ed-4f40-a670-02d7d0fa687a",
+            "sceneId": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+            "elementId": "c0e157e2-36e7-4526-9f75-8bf28c46289b",
+            "start": 2,
+            "end": 7,
+            "text": "CROWD",
+            "source": "user",
+            "sceneKey": "c9495615",
+            "elementKey": "3eeaac4e"
+          },
+          {
+            "id": "11f75651-40fa-44cd-9b03-22a3e90f9c23",
+            "sceneId": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+            "elementId": "cfe2740a-2ae6-4127-9fad-8710abfb1b8f",
+            "start": 4,
+            "end": 9,
+            "text": "crowd",
+            "source": "user",
+            "sceneKey": "c9495615",
+            "elementKey": "3eeaac4e"
+          },
+          {
+            "id": "d3f04391-ce75-41e2-aab2-e8d30fe400f9",
+            "sceneId": "9b2eab39-2972-45a2-9003-e8f90e7127af",
+            "elementId": "53485ceb-cf3b-4c0f-8732-83d2c85aff83",
+            "start": 75,
+            "end": 80,
+            "text": "crowd",
+            "source": "user",
+            "sceneKey": "c9495615",
+            "elementKey": "3eeaac4e"
+          }
+        ]
+      }
+    ],
+    "scenes": {}
+  }
+}
