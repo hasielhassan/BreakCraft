@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<FinalDraft DocumentType="Script" Template="No" Version="5">
+  <TitlePage>
+    <Content>
+      <Paragraph Type="General" Alignment="Center">
+        <Text>THE STORY OF THE THREE BEARS</Text>
+      </Paragraph>
+      <Paragraph Type="General" Alignment="Center">
+        <Text>A BreakCraft sample adaptation</Text>
+      </Paragraph>
+      <Paragraph Type="General" Alignment="Center">
+        <Text>Public domain folk tale, freely retold</Text>
+      </Paragraph>
+    </Content>
+  </TitlePage>
+  <Content>
+    <Paragraph Type="Scene Heading" Number="1">
+      <Text>EXT. FOREST COTTAGE - MORNING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A tidy stone cottage sits deep in the woods, smoke curling from its chimney into the cool morning air. A well-worn path leads up to a round front door, painted a cheerful green.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="2">
+      <Text>INT. BEARS' COTTAGE - KITCHEN - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Three bowls of PORRIDGE steam on the table: one large, one middling, one small. PAPA BEAR, MAMA BEAR and BABY BEAR gather round, spoons ready, napkins already tucked in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PAPA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Too hot to sit still for. Every morning the same trouble.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAMA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A walk while it cools, then, same as every morning. It's hardly a hardship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BABY BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>already at the door</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Last one to the stream carries the honey jar all the way back!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PAPA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was my honey jar last time, and the time before that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAMA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>already following Baby Bear out</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then perhaps walk a little faster this morning, dear.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The door swings shut behind them, their voices fading down the forest path. The porridge sits, cooling, in the quiet.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="3">
+      <Text>EXT. FOREST PATH - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Some distance off, a girl with tangled GOLD HAIR wanders the same stretch of forest, humming to herself, clearly enjoying being lost rather more than she's worried about it. This is GOLDILOCKS, small, curious, and entirely unbothered by whose woods these are.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She spots the cottage's chimney smoke rising above the trees and changes direction toward it without a second thought.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's home. Someone's home might know the way back to the village.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="4">
+      <Text>INT. BEARS' COTTAGE - KITCHEN - LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Goldilocks peers through the kitchen window, knocks twice on the green door, and lets herself in when no one answers, calling out a polite hello that no one is present to hear.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three bowls of porridge sit untouched on the table. She tastes the large bowl first.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Too hot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She tastes the middling bowl next, wrinkling her nose slightly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Too cold. Whoever made this left far too long ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She tastes the small bowl, and empties it entirely before she notices she's done so.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just right. Just right is a rare thing to find, honestly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She sets the empty bowl down with a small, satisfied sigh, and wanders further into the cottage.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="5">
+      <Text>INT. BEARS' COTTAGE - SITTING ROOM - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Three CHAIRS face a cold hearth: one broad and high-backed, one cushioned and low, one small and plainly made. Goldilocks tries the large one first, climbing up with some effort.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Far too firm. Whoever sits here must never relax at all.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She climbs down and tries the middling chair, sinking further than expected into its cushions.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Too soft, and lopsided besides. One leg's shorter than the others, I'd wager.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The small chair fits perfectly, right up until it doesn't - one leg gives way beneath her with a sharp crack, and she tips gently backward onto the rug, more startled than hurt.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>from the floor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, bother. That one's broken now, I'm afraid.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She picks herself up, dusts off her skirts, and continues her exploration further into the cottage as though nothing at all had happened.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="6">
+      <Text>INT. BEARS' COTTAGE - STAIRWAY - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A narrow wooden stairway climbs to the upper floor. Goldilocks pauses at the bottom, glancing back once toward the front door, then shrugs and climbs on up, curiosity plainly winning out over caution.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="7">
+      <Text>INT. BEARS' COTTAGE - BEDROOM - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Three BEDS, largest to smallest, each neatly made. Goldilocks climbs onto the large one first, bouncing experimentally.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Too hard. Like sleeping on a stack of firewood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She tries the middling bed next, sinking almost out of sight into its deep quilts.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GOLDILOCKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Too soft. I'd never find my way out again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The small bed is exactly right, and within moments she is fast asleep beneath its patchwork quilt, one arm trailing off the edge, entirely at ease.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="8">
+      <Text>EXT. FOREST PATH - LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three bears amble homeward, Baby Bear trailing a stick along the ground, the honey jar swinging from Papa Bear's paw after all.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BABY BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Breakfast should be just the right temperature by now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAMA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It always is, if you're patient enough to let it cool properly.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="9">
+      <Text>INT. BEARS' COTTAGE - KITCHEN - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three bears return, unhurried, until Papa Bear stops short at the sight of the table.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PAPA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's had a taste of my porridge.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAMA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's had a taste of mine, too, and left it a good deal messier than they found it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BABY BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>staring into his empty bowl</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's finished all of mine! Every single spoonful!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="10">
+      <Text>INT. BEARS' COTTAGE - SITTING ROOM - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The bears move through to the sitting room. Papa Bear notices his chair's cushion askew; Mama Bear finds hers faintly dented on one side.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PAPA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's been sitting in my chair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAMA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's been sitting in mine as well.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BABY BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>discovering the wreckage</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's been sitting in mine, and broken it clean through!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="11">
+      <Text>INT. BEARS' COTTAGE - BEDROOM - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They climb the stairs together, more curious now than concerned, and find the beds in various states of disturbance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PAPA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's been lying in my bed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAMA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's been lying in mine, too.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BABY BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Someone's asleep in my bed - and here she is!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Goldilocks wakes to three faces peering down at her, blinks once, takes a full second to understand the scene, and is out the window and across the garden before anyone can offer her a proper breakfast.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="12">
+      <Text>EXT. BEARS' COTTAGE - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three bears watch from the upstairs window as Goldilocks sprints across the garden and disappears into the tree line without a single backward glance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BABY BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Should we go after her?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PAPA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I imagine she's learned quite enough for one morning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAMA BEAR</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>watching her go</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well. At least she liked the porridge. That's more than I can say for some visitors.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Baby Bear surveys his broken chair with a philosophical sigh and begins, without being asked, to see what can be done about mending it.</Text>
+    </Paragraph>
+  </Content>
+</FinalDraft>

@@ -1,0 +1,27 @@
+/*
+ * Self-hosted Courier Prime, subset to the Latin range (U+0000-00FF plus a
+ * handful of typographic punctuation marks) — the same subset Google Fonts
+ * serves by default for English text. Vendored so the app has no external
+ * network dependency; see public/fonts/OFL.txt for the font's license.
+ *
+ * Only the two weights the app actually uses are included. If ScriptView.css
+ * ever adds italic or another weight, add the matching @font-face here too.
+ */
+
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('CourierPrime-Regular.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('CourierPrime-Bold.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}

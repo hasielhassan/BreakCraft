@@ -1,0 +1,7 @@
+[
+  { "id": "little-red-riding-hood", "name": "Little Red Riding-Hood", "file": "little-red-riding-hood.fountain", "tagged": "little-red-riding-hood.breakcraft.json", "note": "Fountain · 13 scenes" },
+  { "id": "three-little-pigs", "name": "The Three Little Pigs", "file": "three-little-pigs.fountain", "tagged": "three-little-pigs.breakcraft.json", "note": "Fountain · 11 scenes" },
+  { "id": "three-bears", "name": "The Story of the Three Bears", "file": "three-bears.fdx", "tagged": "three-bears.breakcraft.json", "note": "Final Draft · 12 scenes" },
+  { "id": "hare-and-tortoise", "name": "The Hare and the Tortoise", "file": "hare-and-tortoise.fountain", "tagged": "hare-and-tortoise.breakcraft.json", "note": "Fountain · 8 scenes" },
+  { "id": "emperors-new-clothes", "name": "The Emperor's New Clothes", "file": "emperors-new-clothes.fdx", "tagged": "emperors-new-clothes.breakcraft.json", "note": "Final Draft · 8 scenes" }
+]
